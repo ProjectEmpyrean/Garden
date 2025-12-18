@@ -1,0 +1,1 @@
+- Insofar as happiness is governed by causality within range of volition, Project Empyrean seeks maximally certain information by which volition may be constrained for the indefinite attainment of wellbeing in both current and especially subsequent existences beyond death. In other words, "What should I do to be happy forever?"
