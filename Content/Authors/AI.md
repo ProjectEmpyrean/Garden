@@ -1,0 +1,1 @@
+References to [[AI]] signify AI generated content.
