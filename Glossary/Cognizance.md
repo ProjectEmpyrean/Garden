@@ -1,0 +1,1 @@
+Consciousness of an object.

@@ -1,0 +1,1 @@
+An object of [[Cognizance|cognizance]] serving as a reference for volition.

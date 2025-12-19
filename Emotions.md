@@ -1,0 +1,41 @@
+Categorized by level of [[Stress]]:
+- High
+	- Anxiety
+	- Sadness
+	- Grief
+	- Anger
+	- Fear
+	- Guilt
+	- Shame
+	- Envy
+	- Jealousy
+	- Resentment
+	- Hatred
+	- Despair
+	- Terror
+	- Panic
+	- Agony
+	- Anguish
+- Medium
+	- Discomfort
+	- Unease
+	- Irritation
+	- Annoyance
+	- Frustration
+	- Disappointment
+	- Worry
+- Low ^0f077d
+	- Contentment
+	- Satisfaction
+	- Cheerfulness
+	- Joy
+	- Excitement
+	- Elation
+	- Rapture
+	- Bliss
+	- Equanimity
+- Zero (non-affective) ^19ffd2
+	- Equanimity?
+	- Unconsciousness
+	- Nirodha samapatti
+	- Nibbana

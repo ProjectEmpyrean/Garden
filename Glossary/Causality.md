@@ -1,0 +1,1 @@
+The influence of an event on subsequent events.

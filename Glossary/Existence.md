@@ -1,0 +1,1 @@
+A perceivably continuous stream of personally affective emotion bounded by death.
