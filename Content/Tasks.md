@@ -1,1 +1,8 @@
 - [ ] Create a formal model of the [[Framework]]
+- [ ] Prove the existence of devas and similar entities
+	- Requires corroboration and empirical data
+- [ ] Find and test arahants
+	- Design comprehensive examinations that verify the the destruction of taints
+	- Beware: physical correlates may provide false positives from reflexive processes.
+- [ ] Corroborate psychedelic experiences
+	- Simultaneous N,N DMT administration with isolated interviews
