@@ -1,0 +1,15 @@
+From  [MN 129 Balapanditasutta](https://suttacentral.net/mn129/en/sujato#47.1):
+
+> Then the Buddha, picking up a stone the size of his palm, addressed the mendicants, "What do you think, mendicants? Which is bigger: the stone the size of my palm that I've picked up, or the Himalayas, the king of mountains?"
+>
+> "Sir, the stone you've picked up is tiny. Compared to the Himalayas, it doesn't count, it's not worth a fraction, there's no comparison."
+>
+> "In the same way, compared to the happiness of heaven, the pleasure and happiness experienced by a wheel-turning monarch due to those seven treasures and those four blessings doesn't even count, it's not even a fraction, there's no comparison. (Sujato)
+
+From [AN 8.42 Vitthatuposatasutta](https://suttacentral.net/an8.42/en/sujato?lang=en&layout=sidebyside&reference=main&notes=asterisk&highlight=false&script=latin#9.1):
+
+> \"Sixteen hundred years in the human realm is one day and night for the gods who control what is created by others. Thirty such days make up a month. Twelve such months make up a year. The life span of the gods who control what is created by others is sixteen thousand of these heavenly years {9.216 billion human years}.
+>
+> It's possible that some woman or man who has observed the eight-factored sabbath will---when their body breaks up, after death---be reborn in the company of the gods who control what is created by others.
+>
+> This is what I was referring to when I said: \'Human kingship is a poor thing compared to the happiness of the gods.\'\" (Sujato)
