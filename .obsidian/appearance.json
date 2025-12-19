@@ -1,1 +1,5 @@
-{}
+{
+  "textFontFamily": "Optima",
+  "monospaceFontFamily": "Victor Mono",
+  "accentColor": "#55a6b4"
+}
