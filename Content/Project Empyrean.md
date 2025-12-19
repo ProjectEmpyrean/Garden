@@ -1,3 +1,3 @@
 Insofar as [[Happiness|happiness]] is governed by [[Causality|causality]] within range of [[Volition|volition]], Project Empyrean seeks maximally certain [[Information|information]] by which volition may be constrained for the indefinite attainment of wellbeing in both current and especially subsequent [[Existence|existences]] beyond [[Death|death]]. 
 
-In other words, "What should I do to be happy forever?"
+In other words, "What should I do to be happy forever?" ^57426f

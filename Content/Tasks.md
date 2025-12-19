@@ -1,0 +1,1 @@
+- [ ] Create a formal model of the [[Framework]]
