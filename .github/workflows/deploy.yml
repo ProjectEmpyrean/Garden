@@ -21,7 +21,7 @@ jobs:
       - name: Checkout Quartz
         uses: actions/checkout@v4
         with:
-          repository: jackyzha0/quartz
+          repository: ProjectEmpyrean/quartz-garden
           path: quartz
 
       - name: Checkout Garden
@@ -42,9 +42,7 @@ jobs:
 
       - name: Sync Vault Content
         run: |
-          rm -rf quartz/content
-          cp -a vault/Content quartz/content
-          ln -sf "The Empyrean Garden.md" quartz/content/index.md
+          cp -a vault/Content/* quartz/content/
 
       - name: Build Quartz
         run: npx quartz build
