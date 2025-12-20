@@ -1,4 +1,4 @@
 ---
-title: The Garden
+title: The Empyrean Garden
 ---
 ![[README#^577598]]
