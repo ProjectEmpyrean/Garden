@@ -1,0 +1,1 @@
+[[Happiness]] is the emergent fundamental goal of existence. (Elaborate)
