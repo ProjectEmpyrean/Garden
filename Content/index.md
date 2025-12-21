@@ -1,4 +1,5 @@
 ---
-title: The Empyrean Garden
+aliases: The Empyrean Garden
+title: Welcome to the Empyrean Garden
 ---
-![[README#^577598]]
+This digital garden is as a living repository of [[Project Empyrean]]'s research.

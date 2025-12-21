@@ -1,4 +1,0 @@
----
-title: The Garden
----
-![[README#^577598]]
