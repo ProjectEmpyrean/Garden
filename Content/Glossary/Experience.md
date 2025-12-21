@@ -1,0 +1,1 @@
+[[Cognizance]] which feels pleasant, unpleasant, or neutral.

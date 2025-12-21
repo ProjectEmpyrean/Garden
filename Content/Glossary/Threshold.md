@@ -1,0 +1,1 @@
+The subjective level of [[Feeling|feeling]] beyond which is a breach in happiness. In other words, the the point above which displeasure makes one feel bad.
