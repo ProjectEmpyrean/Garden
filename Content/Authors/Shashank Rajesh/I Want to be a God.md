@@ -38,7 +38,17 @@ I'll start with the jhanas. I have no doubt that the accounts of those great bei
 
 But is it possible for me, a mere layman unwilling to fully set aside sensual pleasure and occupied with work, to attain this exhaulted power?
 
-## Layman Who Could See
+## Laypeople Who Could See
+
+### Velukantaki
+
+SuttaCentral summary of [AN 7.53 Nandamatasutta](https://suttacentral.net/an7.53/en/sujato):
+
+>Sāriputta and Moggallāna are on tour in the southern hills. A deity informs the laywoman Veḷukaṇṭakī that they are approaching. When Sāriputta expresses his amazement that she speaks with the gods, she goes on to list many other of her own amazing qualities.
+
+SuttaCentral did not, however, display any parallels to this sutta, so authenticity is in question.
+
+### AI Conversations
 
 `<ai-gen model="Grok Expert">`
 
