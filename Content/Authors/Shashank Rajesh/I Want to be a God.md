@@ -46,7 +46,19 @@ SuttaCentral summary of [AN 7.53 Nandamatasutta](https://suttacentral.net/an7.53
 
 >Sāriputta and Moggallāna are on tour in the southern hills. A deity informs the laywoman Veḷukaṇṭakī that they are approaching. When Sāriputta expresses his amazement that she speaks with the gods, she goes on to list many other of her own amazing qualities.
 
-SuttaCentral did not, however, display any parallels to this sutta, so authenticity is in question.
+- [ ] Verify authenticity
+	- SuttaCentral did not, however, display any parallels to this sutta.
+
+- Had memorized the Parayanavagga (was she the author?)
+- Vessavana conversed with her
+- Couldn't recall getting upset after her son was arrested, imprisoned, and executed.
+- Her late husband reborn as a spirit "revealed to her his previous incarnation"
+- Couldn't recall betraying her husband since her marriage in though or deed
+- Never deliberately broke any precepts since declaring herself a lay follower
+- Can attain the four jhanas whenever she wants
+- Is a non-returner
+
+So clearly, Velukantaki was an exceptional noble being not to be compared with ordinary laypeople.
 
 ### AI Conversations
 
