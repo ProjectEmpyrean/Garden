@@ -26,3 +26,39 @@
 - Volition is the sole domain of influence by which this may be secured
 - Therefore, one ought to act such that they don't feel displeasure in the future, either by feeling pleasure, or not feeling.
 - Feeling itself can be volitional. Volition influences future volition.
+## Constraining the Infinitude
+- The range of volition can be seen as endless
+- An endless range of action leading to various results
+- A unit of experience can be seen as influenced by the aggregate of all choices made in the past
+- Its incredibly complex, but we can use models to determine the choices that are more likely to result in optimal future volition and avoidance of stress
+- Examples
+	- Smoking
+		- Smoking cigarettes used to be viewed as healthy
+		- As a result of this model, people chose to smoke
+		- And because this model was inaccurate, they suffered the consequences such as cancer etc.
+		- But now our model says that smoking is unhealthy
+		- So people don't smoke, and as a result they don't get lung cancer caused by smoking
+		- The model determined the quality of outcomes
+	- Germ theory
+		- Old model did not account for germs
+		- Thus doctors did not choose proper sanitation
+		- And thus increased mortality rate
+		- New model accounted for germs
+		- Sanitation increased
+		- Mortality dramatically decreased
+		- The model determined the quality of outcomes
+
+- Some more examples from ChatGPT:
+
+| Old view                                       | New view                                              | Actions                                                   | Results                                                     |
+| ---------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------- |
+| Disease from miasma or humors                  | Germ theory                                           | Sanitation, sterilization, vaccination                    | Huge reduction in infectious disease and surgical mortality |
+| Scurvy from bad food or sea air                | Vitamin C deficiency                                  | Citrus supplementation                                    | Scurvy largely eliminated in navies                         |
+| Childbirth fever as unavoidable                | Physicians transmit infection                         | Handwashing between patients                              | Maternal mortality collapsed                                |
+| Ulcers caused mainly by stress/spicy food      | Bacterial infection (_Helicobacter pylori infection_) | Antibiotics                                               | Many ulcers cured rather than managed                       |
+| Fire as release of "phlogiston"                | Oxygen-based combustion                               | Modern chemistry                                          | Enabled advances across science and industry                |
+| Continents fixed in place                      | Plate tectonics                                       | Better understanding of earthquakes, volcanoes, resources | Major advances in earth science                             |
+| Mental illness as possession or moral failing  | Brain, psychological, and social mechanisms           | Evidence-based treatment                                  | Better outcomes for many disorders                          |
+| Stomach acid should be neutralized permanently | Acid has physiological functions but can be excessive | Targeted acid suppression                                 | Effective treatment of reflux and ulcers                    |
+- So accurate models lead to better outcomes
+- Thus, we ought to expand and improve our existential models such that stress is indefinitely avoided
