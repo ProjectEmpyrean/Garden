@@ -21,3 +21,8 @@
 - From a Buddhist perspective, the highest allure of pleasure is "the unaffiliated". And yet, though completely devoid of displeasure, it too is considered a burden as feeling is an arisen phenomenon. Anything that arises is inconstant, and thus subject to cease.
 - Nirvana however does not arise, and thus not subject to cease. Thus, it is unconditioned and permanent. Though no feeling occurs there, it is the highest of happiness by its permanence.
 - And thus, however indefinite a good existence might be, an unconditioned solution such as nirvana is inherently superior.
+## Influence of Volition
+- The goal then is to either feel good or not feel in the future
+- Volition is the sole domain of influence by which this may be secured
+- Therefore, one ought to act such that they don't feel displeasure in the future, either by feeling pleasure, or not feeling.
+- Feeling itself can be volitional. Volition influences future volition.
