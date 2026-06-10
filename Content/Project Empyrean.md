@@ -62,3 +62,27 @@
 | Stomach acid should be neutralized permanently | Acid has physiological functions but can be excessive | Targeted acid suppression                                 | Effective treatment of reflux and ulcers                    |
 - So accurate models lead to better outcomes
 - Thus, we ought to expand and improve our existential models such that stress is indefinitely avoided
+## Bedrock Models
+- We can begin with a set of bedrock assumptions that are very difficult to refute
+- **Volitional causality**
+	- This model assumes that volition does have an influence on existence
+	- Consider two cases: that this is true or false.
+	- If it were false, then operating on either asumption would not change the outcome, for in that case outcomes are outside of influence.
+	- If it were true, then operating on the assumption that it were false would lead to less favorable outcomes that if we operated on the assumption it were true. 
+	- Thus, it makes no sense in the absence of absolute knowledge to operate on the false model
+	- So this model is locked in place, which eliminates the range of "inaction" based choices resulting from it
+- **Biological mortality**
+	- Assumtion that the human organism will inevitably die
+	- So even with transhuman advancements, even a life of a billion years would be bound to come to an end
+	- Because the very substrate upon which the human organism survives is highly unstable
+	- Eventually the sun will burn up the earth
+	- Eventually Andromeda will collide with the milky way
+	- Eventually the universe ends in one of three ways
+	- But realistically, all it takes is one wrong step and you're dead
+	- This model thus deprioritizes transhuman efforts as they are simply insufficient. Death and rebirths must be understood and mastered (see next)
+- **Organic Cessation**
+	- Assumption that conscious existence will normally arise again after the death of the organism
+	- Smilar argument to volitional causality
+	- Suppose cessation were naturally guaranteed. In that case, given biological mortality is inevitable, nothing need be done as stress would naturally come to an end with death.
+	- Suppose it were not. In that case, operating on the assumption it were would be a huge opportunity cost and miscalculation.
+	- Thus, in any case it only makes sense to assume it were not guaranteed, thus seeking either the guarantee of cessation, or future pleasant existences.
