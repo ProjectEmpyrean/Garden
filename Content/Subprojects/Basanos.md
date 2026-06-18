@@ -1,0 +1,7 @@
+- Are the arahants truly perfected?
+- Two points of validation: pre and post mortem
+	- Does the arahant exhibit any indication of stress under any circumstance while still alive?
+	- Does stress arise in that haecceity of consciousness ever again after death? i.e. rebirth
+- The first is far easier to test than the second, which would require a reliable method of locating the re-emergence of unique consciousness
+	- Mara is depicted appearing to possess this ability, such as in the case where he searches for the rebirth of an arahant
+- This project will help to uncover the reality of nirvana: neurological or metaphysical?
