@@ -1,0 +1,4 @@
+- Engineer heavenly lucid dreams though VR conditioning while awake and asleep.
+- Dreams are shaped by waking experiences. VR can simulate heavenly experiences. Thus, devlop VR to induce heavenly dreams.
+- The senses are also active while dreaming, thus serving as a source of input *while* dreaming. Thus dreams can be actively modified with VR and other stimulation as well.
+- And where the conditioned mind might affect rebirth, this also becomes condusive to a heavenly rebirth.

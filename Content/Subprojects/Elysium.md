@@ -10,3 +10,4 @@
 - In Elysium, we see significant increase in control over body and world.
 - And the act of enjoyment is itself productive to the indefinite maintenance and/or recurrence of that process i.e. "productive heaven"
 - And it is also highly condusive to the evolution of knowledge i.e. "research heaven"
+- See also [[Morpheus]]
