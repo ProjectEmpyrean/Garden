@@ -1,0 +1,11 @@
+- *Volition* leads to more or less stress in the future
+- Volition constrained by effective *models* lead to favorable outcomes
+- But where there is uncertainty, competing models result in mutually exclusive constraints
+- And where knowledge is absent, effective models are not known and thus volition remains unconstrained
+- Thus, two problems:
+	- Discovery of effective models
+	- Resolution of competing models under uncertainty
+- Furthermore, it is notable that *plans* are highly effective for executing volition in line with models. The current human capacity is lacking in this regard. Thus, planning and task management would ideally be first class citizens, as plans are usually tightly connected to reasoning based on models.
+- And also there is the problem of improving models based on feedback: cybernetics.
+- So then, XO (short for *exocortex*) shall serve to solve all of these problems.
+- Empyrean in its early stage has to deal with the burden of massive uncertainty, so it seems reasonable that XO become its primary first project. And it would also serve as a means to a living and future wealth as deemed necessary for favorable outcomes.
