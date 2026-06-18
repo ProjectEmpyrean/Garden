@@ -1,0 +1,2 @@
+- Prove the existence of superior sophonts, thus establishing the possibility of and providing a target for superior states of non-human existence.
+- If we know that consciousness arises there, we can more effectively target it as opposed to working in a vacuum.
