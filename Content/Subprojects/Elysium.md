@@ -1,10 +1,12 @@
 - A proxy goal for Empyrean serving as an emotional motivator
-- In essence, indefinite anthropomorphic heaven
+- In essence, indefinite anthropomorphic research heaven
 - Be anyone, go anywhere, do anything
 - Existentially engineered indefinite psychic virtual paradise
 - Experience predominantly pleasure
+- Highly productive fun, with ever increasing knowledge and certainty regarding the efficacy of volition
 - Our human universe experienced through the body can be modeled as an existential computer, complete with rules by which it operates.
 - In the same way, Elysium is an existential computer facilitating and maintaining experience.
 - In our realm, there's mind > body > world with decreasing level of control.
 - In Elysium, we see significant increase in control over body and world.
 - And the act of enjoyment is itself productive to the indefinite maintenance and/or recurrence of that process i.e. "productive heaven"
+- And it is also highly condusive to the evolution of knowledge i.e. "research heaven"
