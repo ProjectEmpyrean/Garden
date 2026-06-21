@@ -1,3 +1,7 @@
+---
+title: Project Empyrean
+---
+
 - The fundamental problem of existence is feeling bad aka *stress*.
 - Project Empyrean seeks the indefinite avoidance of stress.
 - In other words: "What should I do to be happy forever?"
