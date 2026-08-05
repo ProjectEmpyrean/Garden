@@ -1,0 +1,26 @@
+name: Notify Garden Website
+
+# ? Ask the website repository to rebuild when the garden changes
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger website rebuild
+        env:
+          GH_TOKEN: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
+          GARDEN_SHA: ${{ github.sha }}
+        run: |
+          gh api \
+            --method POST \
+            --silent \
+            repos/ProjectEmpyrean/garden-website/dispatches \
+            -f event_type=garden-updated \
+            -f "client_payload[garden_sha]=$GARDEN_SHA"
