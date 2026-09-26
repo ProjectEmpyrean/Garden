@@ -105,5 +105,7 @@ The distinction between satisfying desire and ending it connects [enjoyment](../
 
 The relationship between happiness and unpleasant feeling is clarified in the [current resolution](../Contradictions.md#1-happiness-and-unpleasant-feeling).
 
+The [further clarification](../Contradictions.md#2-pleasure-uptake-and-the-term-stress) includes equanimity, the absence of identity formation, unconsciousness, and nirvana within happiness.
+
 [Garden map](../Map.md)
 <!-- #endregion -->

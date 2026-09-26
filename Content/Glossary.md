@@ -171,5 +171,7 @@ For fuller discussions of these terms, see [feeling](Concepts/Feeling.md), [stre
 
 The definition of happiness is clarified in the [current resolution](Contradictions.md#1-happiness-and-unpleasant-feeling) alongside the passage allowing happiness with intense pain.
 
+The [terminology clarification](Contradictions.md#2-pleasure-uptake-and-the-term-stress) favors happiness and unhappiness over “stress” as a quantitative description and broadens happiness beyond personal uptake of pleasure.
+
 [Garden map](Map.md)
 <!-- #endregion -->

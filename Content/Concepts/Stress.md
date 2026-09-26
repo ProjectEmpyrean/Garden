@@ -67,6 +67,9 @@
 > 
 > It seems that all forms of mental stress are dependent on a sense of identity, and with its cessation so too all forms of stress. Emotions may still exist, but one would be deteched from them, for they would not be anywhere at all. This necessarily implies the impossibility of a subset of emotions like anger and relishing, for both of those are dependent on an induvidual approval or disapproval which no longer exists.
 
+<!-- AI -->
+<a id="acquisition-as-distressing"></a>
+
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
 > # ..
@@ -138,6 +141,9 @@
 > 
 > - Highlight and exhaustively prove with examples
 
+<!-- AI -->
+<a id="appropriated-pleasure"></a>
+
 ## `Content/Scratch.md`
 
 > ## What is Stress?
@@ -151,6 +157,8 @@
 ## Related topics (AI recommended)
 
 Compare this account with [discomfort](../Concepts/Discomfort.md), [unhappiness](../Concepts/Unhappiness.md), and the Buddhist concept of [dukkha](../Wiki/Buddhism/Dukkha.md). [Desire](../Concepts/Desire.md) explores a proposed cause of stress.
+
+The [current resolution](../Contradictions.md#2-pleasure-uptake-and-the-term-stress) supersedes the claim that uptake is inherently stressful and replaces “stress” as the preferred quantitative description with happiness and unhappiness.
 
 [Garden map](../Map.md)
 <!-- #endregion -->

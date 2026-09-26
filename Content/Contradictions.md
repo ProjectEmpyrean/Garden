@@ -11,13 +11,22 @@ This page records clarifications of conflicting claims in the garden. The origin
 
 ### Resolution
 
-“Feeling” as a verb refers here to taking up a feeling and forming a personal relationship with it, not merely the presence of a sensation. But distinguishing feeling from its uptake is not sufficient on its own. Happiness and unhappiness are emergent phenomena that make use of feeling; neither is inherent in the feeling itself. A happy existence forms an identity around pleasure, and an unhappy existence around displeasure.
+The current account distinguishes [sensation, perceived pleasantness, and personal uptake](Concepts/Feeling.md). Here, the verb *feeling* denotes that uptake. Happiness and unhappiness arise through the interpretation and personal use of feeling, rather than inhering in it: where identity forms, it forms around pleasure or displeasure respectively. For example, the same exercise fatigue may be unpleasant to a beginner but pleasant to an experienced bodybuilder.
 
-The components used for happiness are necessarily interpreted as pleasant. A sensation does not have an invariant pleasant or unpleasant character: the same muscle fatigue during exercise may be unpleasant to a beginner and pleasant to a seasoned bodybuilder. They interpret and make use of it differently, one for unhappiness and the other for happiness. This is the distinction between sensation and its perceived hedonic tone discussed under [Feeling](Concepts/Feeling.md).
+A predominantly happy experience uses components perceived as pleasant. Components still perceived as unpleasant are either not taken up or contribute a lesser degree of unhappiness. Happiness alongside pain therefore need not mean happiness produced by unpleasantness: the sensation may be interpreted differently, left unused, or contribute only a minor unhappy component. The glossary's threshold concerns personal uptake of displeasure, not merely the presence of a conventionally painful sensation.
 
-Components that remain perceived as unpleasant are either not taken up or contribute a smaller portion of unhappiness within a predominantly happy experience. Thus, “happiness with intense pain” needs qualification: the sensation called pain may be interpreted and used as pleasant, or its unpleasant aspects may remain unused or contribute only a lesser degree of unhappiness. It does not mean that unpleasantness itself is inherently happiness. Likewise, the glossary's “not feeling displeasure beyond a threshold” concerns its personal uptake, rather than the mere presence of a sensation conventionally called painful.
+The [eighteen mental preoccupations](Wiki/Buddhism/18%20Mental%20Preoccupations.md) provide the cited Buddhist reference for this interpretation. This account concerns happiness involving feeling; [resolution 2](#2-pleasure-uptake-and-the-term-stress) addresses its broader scope.
 
-The [eighteen mental preoccupations](Wiki/Buddhism/18%20Mental%20Preoccupations.md) are the relevant Buddhist reference for this current position: the article quotes MN 137 on happiness, sadness, and equanimity in relation to the six sensory domains. The account above states the current interpretation; the linked excerpt remains available for comparison.
+## 2. Pleasure uptake and the term stress
+
+- [Acquisition as inherently distressing](Concepts/Stress.md#acquisition-as-distressing) claims that acquisition is reflexively distressing and that taking up pleasure is distressing in itself.
+- [Appropriated pleasure and its side effects](Concepts/Stress.md#appropriated-pleasure) instead distinguishes pleasure itself from its potentially unpleasant consequences.
+
+### Resolution
+
+The claim that taking up pleasure necessarily produces distress is superseded. Crude enjoyment may include personal unpleasantness, but uptake alone does not establish unhappiness; refined jhāna is offered as a counterexample.
+
+The preferred description is now happiness and unhappiness, replacing *stress* as a scalar measure of psychological states. Happiness includes equanimity, the absence of identity formation, unconsciousness, and nirvana. Personal uptake of pleasure is therefore one form of happiness, not a requirement for it, and uptake need not carry an inherently unhappy component.
 
 [Garden map](Map.md)
 <!-- #endregion -->
