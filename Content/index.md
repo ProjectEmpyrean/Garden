@@ -95,9 +95,6 @@ The claim below is qualified by the [resolution on neutral feeling and personal 
 	- Eventually the universe ends in one of three ways
 	- But realistically, all it takes is one wrong step and you're dead
 	- This model thus deprioritizes transhuman efforts as they are simply insufficient. Death and rebirths must be understood and mastered (see next)
-- **Organic Cessation**
-	- Assumption that conscious existence will normally arise again after the death of the organism
-	- Smilar argument to volitional causality
-	- Suppose cessation were naturally guaranteed. In that case, given biological mortality is inevitable, nothing need be done as stress would naturally come to an end with death.
-	- Suppose it were not. In that case, operating on the assumption it were would be a huge opportunity cost and miscalculation.
-	- Thus, in any case it only makes sense to assume it were not guaranteed, thus seeking either the guarantee of cessation, or future pleasant existences.
+
+<!-- AI -->
+- **Rebirth:** See the [working assumption of re-emergence](Concepts/Rebirth.md#action-without-rebirth).

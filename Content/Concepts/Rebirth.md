@@ -1,3 +1,14 @@
+<!-- AI -->
+<!-- #region -->
+<a id="action-without-rebirth"></a>
+
+# Rebirth
+
+Rebirth means the re-emergence of personal existence, whether immediately after death or after an interval. The project assumes this possibility when choosing how to act. If death permanently ends personal existence, it also ends the possibility of subsequent unhappiness. If existence re-emerges, neglecting it could forfeit the present opportunity to influence its conditions. Research therefore focuses on how re-emergence works and how present choices can affect it, rather than proving that it occurs.
+
+See also the [four consolations](../Wiki/Buddhism/Four%20Consolations.md).
+<!-- #endregion -->
+
 ## `Content/Project Empyrean Draft.md`
 
 > ## The Case for Rebirth
@@ -5,20 +16,6 @@
 > - Naturalist theories of consciousness posit it as an epiphenomenon, but even in this case, it is only reasonable for consciousness to rearise in another brain since many multitudes of human brains are arising each and every day.
 > - Even if humans went extinct, the relevant conditions will likely form again in the future
 > - Explore other theories of conscsiousness
-
-<!-- AI -->
-<a id="action-without-rebirth"></a>
-
-## `Content/Project Empyrean Draft.md`
-
-> ## Rebirth is a Necessary Assumption
-> 
-> - If there's no rebirth, then you won't be unhappy after you die.
-> 	- There's not way to feel unhappy if there's no [[Feeling]].
-> - But if you don't know, it only makes sense to assume it as a reality.
-> 	- In the case there is no rebirth, nothing you do matters, you will be happy after death in any case.
-> 	- But if you're wrong, you've wasted the only opportunity for control that you have, and potentially made a mess of it.
-> 	- See the [[Four Consolations]]
 
 ## `Content/Project Empyrean Draft.md`
 
@@ -128,9 +125,10 @@
 
 > ## Death and the Afterlife {#death-and-the-afterlife-1}
 > 
-> We can consider two possibilities after the death of the body: The end of subjective experience, or its continuation, either immediately or after some time. With experience again comes the possibility of the agreeable and disagreeable, and that\'s a problem. Those who are fortunate in this life can have some assurance that if they act sagaciously that they will abide mosty with the agreeable and not with the disagreeable. But at least for most of us, death is a chasm of ignorance, for we know not what may come afterwards, nor how we can affect it to our advantage.
-> 
-> Now, there is evidence for the afterlife, and it it *far* more rational of an explaination compared to annihilationism, but even ignoring these things it only makes sense to consider *only* the other possibility, since with annihilationism nothing need be done at all, for one\'s fate is already sealed at the end of their life. So any and all consideration to this is simply a waste of time.
+> Now, there is evidence for the afterlife, and it it *far* more rational of an explaination compared to annihilationism, […]
+
+<!-- AI -->
+The practical argument from this passage is consolidated in the [working assumption above](#action-without-rebirth).
 
 ## `Content/Project Empyrean Draft.md`
 

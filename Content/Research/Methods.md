@@ -145,8 +145,9 @@
 > 3.  Karma
 > 
 > If there\'s rebirth, then determine the extent of the better life. If the better life extends up to the Heavens, then determine its cause. If its Karma, then determine what Karma leads to it. And when that\'s determined, the path is set.
-> 
-> Whether there is or isn\'t rebirth is irrelevant. If the latter, then nothing we do matters, as it all leads to the same destination anyways. Therefore, we act out of caution, assuming the existence of rebirth, for the future is not knowable through indirect means.
+
+<!-- AI -->
+These steps use the [working assumption of rebirth](../Concepts/Rebirth.md#action-without-rebirth).
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 

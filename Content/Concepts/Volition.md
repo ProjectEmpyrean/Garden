@@ -79,9 +79,9 @@
 > - So we begin with the assumption that **stress is causally influenced by volition**.
 > - If we do not, then nothing could be done. Even if fatalism is true, then both action and inaction are effectively the same. But in case it is not, then only action would be rational. Therefore, in *any* case, it is fit to adopt this assumption.
 > - Volition as a phenomenon is independent from arguments of free will and determinism. In any case, the phenomenon of volition does arise.
-> 
-> - Furthermore, we assume that **organic oblivion is impossible**.
-> - Since biological death is practically inevitable, oblivion after death would indeed be the end of stress. However, that is unknown. Therefore, as before, it only makes sense to adopt the assumption that organic oblivion is impossible, as that would force us to act optimally for the worst case.
+
+<!-- AI -->
+Choices concerning existence after death use the [working assumption of rebirth](Rebirth.md#action-without-rebirth).
 
 ## `Content/Authors/Shashank Rajesh/Determination.md`
 

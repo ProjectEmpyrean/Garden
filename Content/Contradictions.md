@@ -52,7 +52,7 @@ Transcending the paradigm of existence altogether also qualifies as a complete s
 
 ## 5. The value of action without rebirth
 
-- [Action under the no-rebirth assumption](Concepts/Rebirth.md#action-without-rebirth) states that nothing one does matters if there is no rebirth.
+- The earlier argument about [action under the no-rebirth assumption](Concepts/Rebirth.md#action-without-rebirth), now consolidated, stated that nothing one does matters if there is no rebirth.
 - [The project's scope](Project/Goals.md#current-and-subsequent-lives) includes happiness in both current and subsequent lives.
 
 ### Resolution
