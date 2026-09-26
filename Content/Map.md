@@ -16,6 +16,7 @@ What we are trying to accomplish, and how the work is organized.
 - [Strategy](Project/Strategy.md)
 - [Organization](Project/Organization.md)
 - [Other subprojects](Subprojects/index.md)
+- [Contradictions and resolutions](Contradictions.md)
 
 ## The problem and experience
 

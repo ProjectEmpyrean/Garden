@@ -169,5 +169,7 @@
 
 For fuller discussions of these terms, see [feeling](Concepts/Feeling.md), [stress](Concepts/Stress.md), [happiness](Concepts/Happiness.md), and [volition](Concepts/Volition.md). The [fundamental problem](Concepts/Fundamental%20Problem.md) explains how they fit together.
 
+The definition of happiness is [awaiting clarification](Contradictions.md#1-happiness-and-unpleasant-feeling) alongside the passage allowing happiness with intense pain.
+
 [Garden map](Map.md)
 <!-- #endregion -->

@@ -5,6 +5,9 @@
 > 
 > Its like quenching one's thirst with a cold glass of water over and over again with the aquisition of diversified streams of gratfication.
 
+<!-- AI -->
+<a id="happiness-with-pain"></a>
+
 ## `Content/Authors/Shashank Rajesh/Drafts/Project Empyrean (2).md`
 
 > ## A Conservative and Liberal Definition of Happiness
@@ -99,6 +102,8 @@
 ## Related topics (AI recommended)
 
 The distinction between satisfying desire and ending it connects [enjoyment](../Concepts/Enjoyment.md) with [renunciation](../Concepts/Renunciation.md). [Human existence](../Concepts/Human%20Existence.md) examines the limits of sustaining happiness in a human body.
+
+The relationship between happiness and unpleasant feeling is [awaiting clarification](../Contradictions.md#1-happiness-and-unpleasant-feeling).
 
 [Garden map](../Map.md)
 <!-- #endregion -->
