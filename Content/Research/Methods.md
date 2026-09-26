@@ -122,6 +122,9 @@
 > 
 > But where to aim when there\'s so much fog? Take your best best, and that best bet now is the Dhamma. Study the doctrine Kamma, see Abhidhamma. Every major religious tradition claims favorable results from good deeds anyways, good change it really is true.
 
+<!-- AI -->
+<a id="trust-in-attainment"></a>
+
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
 > # Skepticism
@@ -196,6 +199,8 @@
 ## Related topics (AI recommended)
 
 These approaches support the garden's account of [knowledge](../Concepts/Knowledge.md) and its [research questions](../Research/Questions%20and%20Tasks.md). [Preserving the truth](../Wiki/Buddhism/Preserving%20the%20Truth.md) provides a Buddhist discussion of belief and justification.
+
+The claims about trusting attainment are [exploratory musings on an open epistemological question](../Contradictions.md#3-attainment-and-epistemic-certainty).
 
 [Garden map](../Map.md)
 <!-- #endregion -->

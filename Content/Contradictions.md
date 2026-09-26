@@ -28,5 +28,14 @@ The claim that taking up pleasure necessarily produces distress is superseded. C
 
 The preferred description is now happiness and unhappiness, replacing *stress* as a scalar measure of psychological states. Happiness includes equanimity, the absence of identity formation, unconsciousness, and nirvana. Personal uptake of pleasure is therefore one form of happiness, not a requirement for it, and uptake need not carry an inherently unhappy component.
 
+## 3. Attainment and epistemic certainty
+
+- [Trust in attainment](Research/Methods.md#trust-in-attainment) proposes attainment as a basis for trust.
+- [Verification of attainment](Subprojects/Ulysses.md#verification-of-attainment) questions whether the certainty accompanying attainment establishes its validity.
+
+### Resolution
+
+These passages are exploratory musings, not settled epistemological positions. What attainment can establish, and how its accompanying certainty could be justified or verified, remain open questions.
+
 [Garden map](Map.md)
 <!-- #endregion -->

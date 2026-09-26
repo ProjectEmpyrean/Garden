@@ -6,6 +6,9 @@
 		- Restore doubt
 		- Carry out the contingency against one's wishes
 
+<!-- AI -->
+<a id="verification-of-attainment"></a>
+
 ## `Content/Subprojects/Operation Ulysses/index.md`
 
 > - If one were to claim the existing or inevitable complete ending of unhappiness via the extinguishment of desire, then they ought to bind themselves such that the truth may be verified by external, premeditated means that may no longer be held to be relevant by them after their attainment.
@@ -17,6 +20,8 @@
 ## Related topics (AI recommended)
 
 [Basanos](../Subprojects/Basanos.md) addresses verification of attainment, while [Phoenix](../Subprojects/Phoenix.md) develops a contingency if it proves insufficient. These questions arise alongside [Unbound](../Subprojects/Unbound.md)'s pursuit of permanent freedom from distress.
+
+The epistemic significance of attainment [remains an open question](../Contradictions.md#3-attainment-and-epistemic-certainty); these musings do not establish a settled position.
 
 [Garden map](../Map.md)
 <!-- #endregion -->
