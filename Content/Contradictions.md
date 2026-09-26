@@ -2,7 +2,7 @@
 <!-- #region -->
 # Contradictions and resolutions
 
-This page records clarifications of conflicting claims in the garden. The original passages remain in place. Pending questions are not settled positions.
+This page records clarifications of conflicting claims in the garden. The original passages remain in place. Pending questions are not settled positions. Differences of emphasis, conditional claims, and unanswered research questions are not by themselves contradictions; unresolved entries below distinguish possible tensions from demonstrated conflicts.
 
 ## 1. Happiness and unpleasant feeling
 
@@ -121,6 +121,28 @@ The goal is indefinite happiness. No prescribed measure of permanence or certain
 ### Resolution
 
 Volition exists as an experienced phenomenon, and exercising it toward the goal is the only rational course in the project's practical framework. Even apparent certainty of determinism does not establish its truth: total certitude remains an epistemological problem. Neither uncertainty nor a claim of certainty therefore warrants abandoning volition. Settling the metaphysical debate is unnecessary for this decision, and the earlier description of determinism as unhedgeable does not change that course.
+
+## Unresolved
+
+The following candidates remain deferred. None is currently established as a contradiction that blocks the project's direction. The epistemology of attainment also remains open, as recorded in [section 3](#3-attainment-and-epistemic-certainty).
+
+### Continuity without a persistent identity
+
+[Subjective Existence](Concepts/Subjective%20Existence.md), in “The Illusion of Persistence,” describes cognizance as momentary and persistence as illusory. [Nekyia](Subprojects/Nekyia.md#continuity-research) asks about the continuation of an existing haecceity and proposes connecting later consciousness with a deceased individual.
+
+**Unresolved conceptual tension:** whether the proposed continuity means causal connection, memory, or persistence of an individual identity is unspecified. Causal continuity need not contradict momentariness. [Section 9](#9-assuming-rebirth-and-investigating-its-mechanisms) already establishes the working assumption of re-emergence; this entry does not reopen whether rebirth should be assumed.
+
+### The scope of “stop feeling”
+
+[Unbound](Subprojects/Unbound.md) describes its aim as stopping feeling forever and calls this definitionally nirvana. [Subjective Existence](Concepts/Subjective%20Existence.md#personal-uptake) describes release through ending personal uptake.
+
+**Unresolved wording ambiguity:** the older Unbound description does not distinguish ending personal uptake from ending sensation or cognition altogether. The verb *feeling* has already been explained as uptake in [section 1](#1-happiness-and-unpleasant-feeling), so the passages may be compatible. No further claim about the nature of nirvana is settled here.
+
+### Present enjoyment and longer-term pursuit
+
+[Human Existence](Concepts/Human%20Existence.md), in “The Intrinsic Futility of Human Existence,” rejects deliberately pursuing earthly pleasure because of its opportunity cost. [Strategy](Project/Strategy.md), in “Rename” and “Indulgence Ration,” recommends maintaining satisfaction to avoid being thrown off course.
+
+**Unresolved practical tension:** the categorical rejection does not explicitly accommodate enjoyment that supports continued research and practice. These passages may distinguish diversion from maintenance rather than disagree about the goal. The proposed qualification has not been adopted, and this question is deferred.
 
 [Garden map](Map.md)
 <!-- #endregion -->
