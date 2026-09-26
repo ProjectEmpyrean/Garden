@@ -182,6 +182,9 @@
 > 
 > Start practical and go off of what is reasonably conclusive. Hyperskepticism can come later.
 
+<!-- AI -->
+<a id="maximalist-approach"></a>
+
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
 > ## The Maximalist Approach
@@ -206,6 +209,8 @@ These approaches support the garden's account of [knowledge](../Concepts/Knowled
 The claims about trusting attainment are [exploratory musings on an open epistemological question](../Contradictions.md#3-attainment-and-epistemic-certainty).
 
 The [resolution on rebirth research](../Contradictions.md#9-assuming-rebirth-and-investigating-its-mechanisms) makes re-emergence of personal existence a working assumption, with research directed toward its mechanisms and possible influence.
+
+The [current research strategy](../Contradictions.md#10-focused-research-and-background-exploration) combines focused research with background exploration, qualifying the maximalist proposal above.
 
 [Garden map](../Map.md)
 <!-- #endregion -->

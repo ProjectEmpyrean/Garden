@@ -95,5 +95,14 @@ Indefinite gratification is sufficient in theory, provided the conditions sustai
 
 Rebirth here means the re-emergence of personal existence. The project takes this as a working assumption and investigates how it operates and how it can be influenced. Establishing that rebirth exists is not the research objective. Nekyia's proposed investigations are relevant insofar as they reveal the conditions and mechanisms of re-emergence and inform choices affecting future existence; its earlier emphasis on proof should be read in light of that purpose.
 
+## 10. Focused research and background exploration
+
+- [The maximalist approach](Research/Methods.md#maximalist-approach) proposes gathering and analyzing all available information pertinent to the problem.
+- [Research selected by its effect on decisions](Concepts/Decision%20Models.md#research-selection) excludes questions whose answers would not meaningfully change the operating model.
+
+### Resolution
+
+The current strategy combines focused research with background exploration. Focused work prioritizes questions likely to inform practical choices. Background exploration remains open to discoveries that reveal gaps in the operating model or change which questions deserve attention. Exhaustive coverage is not a prerequisite for action, and the current model does not set the final limits of worthwhile inquiry.
+
 [Garden map](Map.md)
 <!-- #endregion -->

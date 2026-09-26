@@ -14,6 +14,9 @@
 > - Thus, the goal is to optimize volition, and planning by the use of models is perhaps the most effective approach under uncertainty.
 > - So the model needs to be developed and continuously updated in response to new information. Similar to the scientific method.
 
+<!-- AI -->
+<a id="research-selection"></a>
+
 ## `Content/Scratch.md`
 
 > ## The Model is Composed of Assumptions
@@ -138,6 +141,8 @@
 ## Related topics (AI recommended)
 
 Models connect [knowledge](../Concepts/Knowledge.md) to [volition](../Concepts/Volition.md). [XO](../Subprojects/XO.md) proposes tools for using them, and the [four consolations](../Wiki/Buddhism/Four%20Consolations.md) offer a case of reasoning under uncertainty.
+
+The [current research strategy](../Contradictions.md#10-focused-research-and-background-exploration) prioritizes focused questions while retaining background exploration beyond the operating model.
 
 [Garden map](../Map.md)
 <!-- #endregion -->
