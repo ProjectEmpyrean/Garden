@@ -193,6 +193,9 @@
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
+<!-- AI -->
+<a id="revisable-recommendations"></a>
+
 > well then, how do we approach the truth? There is order to experience, and thus, through inference, one can ascertain to what is true and what is false even without direct apprehension. Thus, we must have a working infernce that evolves with new evidence and reasoning. The fruit of Empyrean will be a working reccomendation of *what* to do, and why. Similar to the W3 reccomendations. With more research and data, this reccomendation will be continuously updated in order to provide more and more probable outcomes.
 
 ## `Content/Project Empyrean Draft.md`
@@ -211,6 +214,8 @@ The claims about trusting attainment are [exploratory musings on an open epistem
 The [resolution on rebirth research](../Contradictions.md#9-assuming-rebirth-and-investigating-its-mechanisms) makes re-emergence of personal existence a working assumption, with research directed toward its mechanisms and possible influence.
 
 The [current research strategy](../Contradictions.md#10-focused-research-and-background-exploration) combines focused research with background exploration, qualifying the maximalist proposal above.
+
+Revising recommendations serves indefinite happiness; the [project's completion](../Contradictions.md#11-indefinite-happiness-and-the-end-of-the-project) has no prescribed certainty threshold.
 
 [Garden map](../Map.md)
 <!-- #endregion -->

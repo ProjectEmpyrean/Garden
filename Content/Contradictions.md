@@ -104,5 +104,14 @@ Rebirth here means the re-emergence of personal existence. The project takes thi
 
 The current strategy combines focused research with background exploration. Focused work prioritizes questions likely to inform practical choices. Background exploration remains open to discoveries that reveal gaps in the operating model or change which questions deserve attention. Exhaustive coverage is not a prerequisite for action, and the current model does not set the final limits of worthwhile inquiry.
 
+## 11. Indefinite happiness and the end of the project
+
+- [Progressive infallible attainments](Project/Goals.md#infallible-attainments) seeks a secure position from which happiness cannot fall.
+- [Revisable research recommendations](Research/Methods.md#revisable-recommendations) aims for increasingly probable outcomes as knowledge develops.
+
+### Resolution
+
+The goal is indefinite happiness. No prescribed measure of permanence or certainty serves as a formal completion criterion. Research and revision serve that goal for as long as they are needed. If a sufficiently secure state is reached, the project would come to an end implicitly, without a declaration of completion. The aspiration to security therefore does not impose a separate requirement to certify permanence.
+
 [Garden map](Map.md)
 <!-- #endregion -->

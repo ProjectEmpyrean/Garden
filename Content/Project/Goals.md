@@ -43,6 +43,9 @@
 
 > Insofar as all shades of suffering are governed by causality within range of volition, Project Empyrean seeks epistemically certain solutions by which volition may be optimally constrained for the indefinite minimization of all states of stress in both current and subsequent lives. In other words, transcending ordinary human existence into the heavens and beyond.
 
+<!-- AI -->
+<a id="infallible-attainments"></a>
+
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
 > ## The actual goal: progressive infallible attainments
@@ -122,6 +125,8 @@ The [fundamental problem](../Concepts/Fundamental%20Problem.md) explains what th
 The [current endpoint](../Contradictions.md#4-sufficient-happiness-and-complete-liberation) is indefinite nominal happiness above a subjective threshold, rather than maximal intensity or refinement.
 
 The [value of action without rebirth](../Contradictions.md#5-the-value-of-action-without-rebirth) distinguishes effects during the present life from the value assigned to their limited duration.
+
+The [end of the project](../Contradictions.md#11-indefinite-happiness-and-the-end-of-the-project) would follow implicitly from sufficient security, without a formal measure or declaration of permanence.
 
 [Garden map](../Map.md)
 <!-- #endregion -->
