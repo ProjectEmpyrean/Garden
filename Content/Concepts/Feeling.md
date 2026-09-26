@@ -21,5 +21,7 @@
 
 The distinction between feeling and [emotion](../Concepts/Emotions.md) matters when examining [stress](../Concepts/Stress.md). [Visual experience](../Concepts/Visual%20Experience.md) offers a concrete case, while the [eighteen mental preoccupations](../Wiki/Buddhism/18%20Mental%20Preoccupations.md) provide a Buddhist classification. The [glossary](../Glossary.md) collects the working definitions.
 
+The [current resolution on happiness](../Contradictions.md#1-happiness-and-unpleasant-feeling) distinguishes sensation, its perceived pleasantness, and its personal uptake.
+
 [Garden map](../Map.md)
 <!-- #endregion -->

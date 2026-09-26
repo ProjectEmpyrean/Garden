@@ -103,7 +103,7 @@
 
 The distinction between satisfying desire and ending it connects [enjoyment](../Concepts/Enjoyment.md) with [renunciation](../Concepts/Renunciation.md). [Human existence](../Concepts/Human%20Existence.md) examines the limits of sustaining happiness in a human body.
 
-The relationship between happiness and unpleasant feeling is [awaiting clarification](../Contradictions.md#1-happiness-and-unpleasant-feeling).
+The relationship between happiness and unpleasant feeling is clarified in the [current resolution](../Contradictions.md#1-happiness-and-unpleasant-feeling).
 
 [Garden map](../Map.md)
 <!-- #endregion -->

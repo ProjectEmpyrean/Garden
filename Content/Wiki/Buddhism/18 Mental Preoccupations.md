@@ -20,5 +20,7 @@
 
 This classification connects [feeling](../../Concepts/Feeling.md) and [emotions](../../Concepts/Emotions.md). [Gradual relinquishment](../../Wiki/Buddhism/Gradual%20Relinquishment.md) develops the distinctions between domestic and renunciate responses.
 
+The [current resolution on happiness](../../Contradictions.md#1-happiness-and-unpleasant-feeling) discusses how this passage relates to the garden's account of feeling and personal uptake.
+
 [Garden map](../../Map.md)
 <!-- #endregion -->
