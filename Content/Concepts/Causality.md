@@ -1,0 +1,25 @@
+## `Content/Authors/Shashank Rajesh/Drafts/Project Empyrean (2).md`
+
+> ## Causality
+> It is observed that there is a causal relationship between the experience of feeling and the response of emotion. But when one practices in the right way, it is also observed that one's tendency to respond can be gradually attenuated.
+
+## `Content/Project Empyrean Draft.md`
+
+> ## Physical Causality is Unequivocal
+> - The laws of physics are readily observable to be functional
+> - Volition has input into this system
+> - Therefore discomfort arising out of the physical domain can be affected
+
+## `Content/Project Empyrean Draft.md`
+
+> ## Mental Causality is Possble
+> - Readily observable as psychology
+> - At the ver least many anecdotes that suggest it
+> - Karma
+> - Quantum physics
+> - Rationally speaking, as consciousness is categorically unique, and interacts with matter, it only makes sense for there to be mental causality
+
+## `Content/Project Empyrean Draft.md`
+
+> ## Determinism is Unhedgable
+> - Similar to annihilation
