@@ -15,3 +15,12 @@
 > | Oral Transmission                       |       |
 > | Reasoned train of thought               |       |
 > | Acceptance of a view after deliberation |       |
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These passages distinguish holding a view from establishing its truth. Compare the garden's [research methods](../../Research/Methods.md) and account of [knowledge](../../Concepts/Knowledge.md), alongside the practical uncertainty in the [four consolations](../../Wiki/Buddhism/Four%20Consolations.md).
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

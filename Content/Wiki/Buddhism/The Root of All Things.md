@@ -10,3 +10,12 @@
 > | Disciple in higher training | Having directly known x, *should not* conceive ...                                             | *Must* fully understand  |     |
 > | Arahant                     | Having directly known x, *does not* conceive ...                                               | *Has* fully understood   |     |
 > | Tathagata                   | -                                                                                              | -                        |     |
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+Compare this account of perception, identification, and delight with [subjective existence](../../Concepts/Subjective%20Existence.md) and [desire](../../Concepts/Desire.md). [Gradual relinquishment](../../Wiki/Buddhism/Gradual%20Relinquishment.md) examines a related progression in practice.
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

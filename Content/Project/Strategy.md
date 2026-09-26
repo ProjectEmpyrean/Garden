@@ -43,3 +43,12 @@
 > # Time is a primary constraint.
 > 
 > # [*Authors/Shashank Rajesh/Opportunity Cost*]{.spurious-link target="Authors/Shashank Rajesh/Opportunity Cost"}
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+Choosing a strategy depends on [decision models](../Concepts/Decision%20Models.md) and the [goals](../Project/Goals.md) they serve. [Research methods](../Research/Methods.md) describe how those models can be tested and revised.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

@@ -166,3 +166,12 @@
 > ## Purity
 > 
 > The absence of the cause of stress.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+For fuller discussions of these terms, see [feeling](Concepts/Feeling.md), [stress](Concepts/Stress.md), [happiness](Concepts/Happiness.md), and [volition](Concepts/Volition.md). The [fundamental problem](Concepts/Fundamental%20Problem.md) explains how they fit together.
+
+[Garden map](Map.md)
+<!-- #endregion -->

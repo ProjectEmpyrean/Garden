@@ -8,3 +8,12 @@
 
 > - Nekyia
 > 	- Commune with the dead to verify rebirth
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The question of [rebirth](../Concepts/Rebirth.md) motivates these investigations. [Hermes](../Subprojects/Hermes.md) proposes a possible interface for communication, while [research methods](../Research/Methods.md) frame the need for evidence.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

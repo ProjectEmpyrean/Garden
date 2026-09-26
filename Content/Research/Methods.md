@@ -190,3 +190,12 @@
 
 > ## Method
 > Volition guided by information. We seek useful information for accurate predictions.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These approaches support the garden's account of [knowledge](../Concepts/Knowledge.md) and its [research questions](../Research/Questions%20and%20Tasks.md). [Preserving the truth](../Wiki/Buddhism/Preserving%20the%20Truth.md) provides a Buddhist discussion of belief and justification.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

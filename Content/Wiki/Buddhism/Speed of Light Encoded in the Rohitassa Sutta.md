@@ -22,3 +22,12 @@
 > > 
 > > So an intelligent person, understanding the world, has completed the spiritual journey and gone to the end of the world. Assuaged, knowing the end of the world, they do not hope for this world or the next.”
 > > – [Sujato SN 2.26 Rohitassasutta](https://suttacentral.net/sn2.26/en/sujato)
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The proposed interpretation remains an item in [research questions and tasks](../../Research/Questions%20and%20Tasks.md). Compare [research methods](../../Research/Methods.md) for evaluating it and [lifespan of devas](../../Wiki/Buddhism/Lifespan%20of%20Devas.md) for another discussion of quantities in Buddhist texts.
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

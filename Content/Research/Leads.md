@@ -72,3 +72,12 @@
 > - Enumerate all accounts
 > - Theoretical heavens
 > - Assuming consciousness to be psychophysical, aim for extrasapien rebirth
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These leads support [Proteus](../Subprojects/Proteus.md)'s investigation of nonhuman beings. The [Brahmā and DMT entity comparison](../Research/Brahma%20and%20DMT%20Entities.md) develops one connection; [research methods](../Research/Methods.md) concerns evaluating the evidence.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

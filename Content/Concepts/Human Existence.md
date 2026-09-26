@@ -226,3 +226,12 @@
 > - Most known sentience is relatively unhappy.
 > - So there is the possibility of existing in an unhappy state after death.
 > - Now what?
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The limitations described here motivate questions about [rebirth](../Concepts/Rebirth.md) and [heavenly existence](../Concepts/Heavenly%20Existence.md). [Apotheosis](../Subprojects/Apotheosis.md) develops the possibility of a different body and world.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

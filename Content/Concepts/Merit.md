@@ -32,3 +32,12 @@
 > ### It is said that a mind that inclines towards nibbana will surely reach its goal.
 > 
 > ### A truly virtuous practitioner is bound to be lifted up in to the heavens even without a determination.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The discussion of [karma](../Concepts/Karma.md) provides context for merit. [How to go to heaven](../Wiki/Buddhism/How%20to%20Go%20to%20Heaven.md) and the [scale of returns](../Wiki/Buddhism/Scale%20of%20Returns.md) collect relevant Buddhist passages; [motivation](../Concepts/Motivation.md) considers their role in practice.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

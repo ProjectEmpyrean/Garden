@@ -13,3 +13,12 @@
 > # Transmortal Personal Computing
 > 
 > Computers are only useful to the mind insofar as there is a human body operate it. But as it is likely that this link will be irreversibly modified after its death, we need a new kind of computer that is in access of the mind after death, in whatever kind of body it may occupy thereafter.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These interfaces extend the computing aims of [XO](../Subprojects/XO.md) beyond ordinary human embodiment. They could support [Nekyia](../Subprojects/Nekyia.md)'s investigations and the preservation aims of [Atlas](../Subprojects/Atlas.md).
+
+[Garden map](../Map.md)
+<!-- #endregion -->

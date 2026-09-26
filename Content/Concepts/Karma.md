@@ -9,3 +9,12 @@
 > # Karma as a Queue/Buffer
 > 
 > That choices/volition create karma, which is then added to the buffer. When the buffer is flushed depends on when the system is ready for it to take fruit. Nonetheless, all karma will eventually be cleared.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These models connect [causality](../Concepts/Causality.md) with [rebirth](../Concepts/Rebirth.md). [Merit](../Concepts/Merit.md) concerns favorable consequences, and the [four consolations](../Wiki/Buddhism/Four%20Consolations.md) consider uncertainty about whether such consequences extend beyond death.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

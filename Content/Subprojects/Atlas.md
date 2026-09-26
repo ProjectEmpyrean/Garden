@@ -9,3 +9,12 @@
 > ### A endless ripple throughout existence
 > 
 > With all beings in existence modeled as ignorant entities, making choice after choice causing their own demise, it is possible then to set off a ripple of knowledge that may purify and ultimately liberate all beings in existence? Some sort of a nuclear meltdown of freedom?
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+Preserving [knowledge](../Concepts/Knowledge.md) supports the project's [organization](../Project/Organization.md) and long-term goals. [Hermes](../Subprojects/Hermes.md) considers future access, and [other subprojects](../Subprojects/index.md) place Atlas among related proposals.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

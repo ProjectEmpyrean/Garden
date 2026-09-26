@@ -145,3 +145,12 @@
 > - The lesser the affliction, the better the state.
 > - Appropriated pleasure is not stressful, but its side effects are, as desire itself can only arise in the unresolved form, and that form is unpleasant.
 > - Stress is equivalent to dukkhadukkhata, but the latter forms of viparinama and sankhara are not. This definition only accounts for the phenomenal aspect, not the ontological.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+Compare this account with [discomfort](../Concepts/Discomfort.md), [unhappiness](../Concepts/Unhappiness.md), and the Buddhist concept of [dukkha](../Wiki/Buddhism/Dukkha.md). [Desire](../Concepts/Desire.md) explores a proposed cause of stress.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

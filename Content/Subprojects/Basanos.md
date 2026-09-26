@@ -26,3 +26,12 @@
 > - [[Content/Operations/Operation Basanos/index|Basanos]]
 > 	- Test ariyas
 > 	- Test supernormal attainments
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+Testing claims of attainment supports [Ulysses](../Subprojects/Ulysses.md) and requires suitable [research methods](../Research/Methods.md). [Unbound](../Subprojects/Unbound.md) states the broader goal such claims concern.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

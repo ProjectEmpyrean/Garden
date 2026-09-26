@@ -108,3 +108,12 @@
 > # Devas could extend their lives
 > 
 > Through generation of good Karma in that life itself, DN 21:2.8.3
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These lifespans add a temporal dimension to [heavenly happiness](../../Wiki/Buddhism/Heavenly%20Happiness.md) and the general account of [devas](../../Wiki/Buddhism/Devas/Index.md). The [Rohitassa passage](../../Wiki/Buddhism/Speed%20of%20Light%20Encoded%20in%20the%20Rohitassa%20Sutta.md) is another textual lead involving time and scale.
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

@@ -288,3 +288,12 @@
 > - Security (noted as subtly afflicted)
 > - Thrill
 > - (Meta: “No emotion” — pure equanimity beyond craving)
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These classifications connect [feeling](../Concepts/Feeling.md) with [stress](../Concepts/Stress.md) and [happiness](../Concepts/Happiness.md). For a particular pattern of emotional escalation, see [offense and hatred](../Concepts/Offense%20and%20Hatred.md).
+
+[Garden map](../Map.md)
+<!-- #endregion -->

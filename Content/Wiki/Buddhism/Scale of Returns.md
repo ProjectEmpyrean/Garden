@@ -30,3 +30,12 @@
 > | Sangha of monks and nuns headed by the Buddha   | Even more than more than incalculable |
 > 
 > > But in any case, there is no way a personal offering can be more fruitful than one bestowed on a Saṅgha, I say. (Sujato)
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These passages concern [merit](../../Concepts/Merit.md) and [karma](../../Concepts/Karma.md), particularly giving. [How to go to heaven](../../Wiki/Buddhism/How%20to%20Go%20to%20Heaven.md) places such actions alongside other practices.
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

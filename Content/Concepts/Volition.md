@@ -151,3 +151,12 @@
 > ## The Opportunity of Volition
 > 
 > With the advent of free-will and causality comes the great opportunity for the minimization of discontentment in both present and future. Insofar as discontentment is governed by causality, and where causes are put in place by way volitional action, each and every choice can be made condusive to the maximization of contentment in the future such that they bring forth pleasant experiences, dispell unpleasant experiences, and reduce the occurence of that craving which is the very cause of discontentment.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+[Decision models](../Concepts/Decision%20Models.md) and [knowledge](../Concepts/Knowledge.md) concern how choices are guided. The Buddhist discussions of [reflection](../Wiki/Buddhism/Reflection.md) and the [four kinds of practice](../Wiki/Buddhism/Four%20Kinds%20of%20Practice.md) examine actions through their consequences.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

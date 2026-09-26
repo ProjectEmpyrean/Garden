@@ -12,3 +12,12 @@
 > - Feces and urine are some of the disgusting aspects of humanity.
 > - It doesn't seem proper for devas to produce such matter.
 > - In that case, either their excreta would not be foul, or they would not emit any at all, only metabolic waste like the out-breath of human beings.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These questions concern embodiment in [heavenly existence](../Concepts/Heavenly%20Existence.md). The [devas article](../Wiki/Buddhism/Devas/Index.md) collects textual descriptions, while [Homo Deus](../Subprojects/Homo%20Deus.md) explores a deliberately imagined alternative to human biology.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

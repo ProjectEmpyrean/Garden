@@ -21,3 +21,12 @@
 > # Personal Instruction
 > 
 > Have your mind read by one farther down this path, and receive instructions from him.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+Relinquishing [desire](../Concepts/Desire.md) offers a different approach to [happiness](../Concepts/Happiness.md) from satisfying it. Compare the Buddhist account of [gradual relinquishment](../Wiki/Buddhism/Gradual%20Relinquishment.md) with [Unbound](../Subprojects/Unbound.md), which investigates a permanent end to distress.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

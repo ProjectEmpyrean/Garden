@@ -17,3 +17,12 @@
 > - Phoenix
 > 	- Contingency in case nibbana turns out to be false
 > 	- Restore and maintain an optimal configuration of desire to ensure indefinite happiness
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+This contingency connects [Ulysses](../Subprojects/Ulysses.md) with alternative forms of [heavenly existence](../Concepts/Heavenly%20Existence.md). [Nekyia](../Subprojects/Nekyia.md) investigates an afterlife, and [Apotheosis](../Subprojects/Apotheosis.md) develops possible destinations.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

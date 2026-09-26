@@ -20,3 +20,12 @@
 > - Other sensations can affect how a sight is evaluated
 > 
 > - Does perception and feeling occur simultaneously?
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+Sight is one of the channels discussed under [feeling](../Concepts/Feeling.md). Compare these observations with [pleasant experiences](../Concepts/Pleasant%20Experiences.md) and the [eighteen mental preoccupations](../Wiki/Buddhism/18%20Mental%20Preoccupations.md).
+
+[Garden map](../Map.md)
+<!-- #endregion -->

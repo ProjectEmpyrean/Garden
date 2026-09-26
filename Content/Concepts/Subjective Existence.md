@@ -211,3 +211,12 @@
 
 > ## Realization
 > Actually, its quite simple. Map out the domain and range: volition and comfort. All the details will emerge therein.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+This model separates [feeling](../Concepts/Feeling.md) from its uptake into [emotions](../Concepts/Emotions.md). [Volition](../Concepts/Volition.md) concerns how that process might be influenced; the [fundamental problem](../Concepts/Fundamental%20Problem.md) explains why.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

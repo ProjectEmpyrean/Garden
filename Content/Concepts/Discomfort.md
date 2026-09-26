@@ -13,3 +13,12 @@
 > 			- Eternal heaven
 > 	2. End uptake
 > 		- Nirvana
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+Compare the meaning of discomfort with [stress](../Concepts/Stress.md) and [feeling](../Concepts/Feeling.md). [Happiness](../Concepts/Happiness.md) considers what it would mean for objectionable experience to remain below a threshold.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

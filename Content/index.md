@@ -2,6 +2,11 @@
 title: Project Empyrean
 ---
 
+<!-- AI -->
+<!-- #region -->
+**[Explore the garden](Map.md)** — Find a topic and follow its connections to related ideas, questions, and projects.
+<!-- #endregion -->
+
 - Join our Discord: https://discord.gg/C2nYd7fKpd
 
 - The fundamental problem of existence is feeling bad aka *stress*.

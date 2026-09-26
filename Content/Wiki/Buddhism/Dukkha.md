@@ -24,3 +24,12 @@
 > ### Ven. Sariputta states that pleasure becomes painful when it changes {#ven.-sariputta-states-that-pleasure-becomes-painful-when-it-changes collapsed="true"}
 > 
 > 1.  This ties into dukkhaviparinama
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+Compare this account with the garden's use of [stress](../../Concepts/Stress.md). [Escaping pain with pleasure](../../Wiki/Buddhism/Escaping%20Pain%20with%20Pleasure.md) and [gradual relinquishment](../../Wiki/Buddhism/Gradual%20Relinquishment.md) examine different responses to painful experience.
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

@@ -24,3 +24,12 @@
 > One may argue that it is possible to get away with unethical behavior and enjoy the benefits they may bring without suffering the consequences if there is no afterlife. Even in this case, however, one is unable to escape the psychological impact of that behavior unless they are psychopathic, and the risk of getting caught will be an everpresent burden to endure.
 > 
 > But at the end of the day, if you're unsure if there is no afterlife, why take the risk?
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These passages connect [karma](../../Concepts/Karma.md) and [rebirth](../../Concepts/Rebirth.md) with reasoning under uncertainty. [Decision models](../../Concepts/Decision%20Models.md) develops that practical question, while [preserving the truth](../../Wiki/Buddhism/Preserving%20the%20Truth.md) concerns the status of one's beliefs.
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

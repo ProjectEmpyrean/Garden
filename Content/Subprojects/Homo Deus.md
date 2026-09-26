@@ -26,3 +26,12 @@
 > ## Thoughts
 > - The minds of Homo Deus are like that of the human elevated by drugs but rid of their ill effects, pervaded by a foundation of jhana like states perhaps akin to the brahmaviharas.
 > - There is a base level of experience, and there are altered states. In that way these beings can alter their experience with stylistic diversity, such as living a pixel art existence, an anime existence, a 3DCG existence, etc.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+This imagined existence elaborates [Apotheosis](../Subprojects/Apotheosis.md) through questions of [heavenly biology](../Concepts/Heavenly%20Biology.md). [Morpheus](../Subprojects/Morpheus.md) considers how such possibilities could become vivid in dreams.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

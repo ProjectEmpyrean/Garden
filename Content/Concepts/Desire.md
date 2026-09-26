@@ -71,3 +71,12 @@
 > ## Preferences
 > 
 > Each individual comprises of two sets containing objects which he likes and dislikes respectively. They can delight in those objects which they share in common, but there can be conflict when another possesses objects that he does not enjoy. The problem is amplified when one side possesses more of these than the other.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+[Enjoyment](../Concepts/Enjoyment.md) examines the satisfaction of desire; [renunciation](../Concepts/Renunciation.md) examines relinquishment. [Motivation](../Concepts/Motivation.md) considers how desire can shape action, and [stress](../Concepts/Stress.md) considers its unresolved forms.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

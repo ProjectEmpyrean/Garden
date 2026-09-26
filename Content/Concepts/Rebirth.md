@@ -149,3 +149,12 @@
 > - If it has arisen now, it can arise again after death.
 > - Therefore, any attainment of comfort restricted to this life is ultimately futile
 > - Priority shifts to future existence
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+[Nekyia](../Subprojects/Nekyia.md) proposes investigating continuity after death. [Karma](../Concepts/Karma.md) concerns possible causes, while [rebirth by choice](../Wiki/Buddhism/Rebirth%20By%20Choice.md) presents a Buddhist account of directing a future existence.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

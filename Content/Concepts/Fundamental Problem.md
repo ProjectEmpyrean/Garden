@@ -378,3 +378,12 @@
 > Volition - ? -> Comfort
 > 
 > How?  The answer begins with an a priori survey of all possibilities. %%
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The argument turns on the relationship between [desire](../Concepts/Desire.md), [stress](../Concepts/Stress.md), and [happiness](../Concepts/Happiness.md). It provides the basis for the project's [goals](../Project/Goals.md).
+
+[Garden map](../Map.md)
+<!-- #endregion -->

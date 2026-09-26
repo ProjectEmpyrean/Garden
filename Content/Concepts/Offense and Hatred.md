@@ -35,3 +35,12 @@
 > # Self-defense
 > 
 > Though our actions may be generally aligned for our long-term benefit, we may still face hurdles along the way which could set us off course. Thus, a minimally viable form of self defence may need to be cultivated to ensure both stability and minimisation of the unwanted consequences of violence.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These notes examine a particular source of [stress](../Concepts/Stress.md) and [emotion](../Concepts/Emotions.md). [Volition](../Concepts/Volition.md) provides a broader account of deliberate responses and their consequences.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

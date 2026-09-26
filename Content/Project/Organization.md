@@ -66,3 +66,12 @@
 > This digital garden is as a living repository of [[Project Empyrean]]'s research.[^1] Follow the links. 
 > 
 > [^1]:  All content is currently in draft stage, and future releases will eventually appear with semantic versioning. 
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The organization supports the project's [goals](../Project/Goals.md) through [research](../Research/Methods.md) and its [subprojects](../Subprojects/index.md). [Atlas](../Subprojects/Atlas.md) addresses the preservation and dissemination of what it discovers.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

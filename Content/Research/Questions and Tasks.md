@@ -246,3 +246,12 @@
 ## `Content/Wiki/Tulpas.md`
 
 > > Research accounts of people creating and interacting with "tulpas" (https://www.tulpa.info/, https://en.wikipedia.org/wiki/Tulpa, https://www.reddit.com/r/Tulpas/) and create a detailed report on the key aspects of the experience that mirror the experience of a seemingly real and independent entity. Also provide data on the prevalence of such accounts and the likelyhood of them being genuine. The goal is to determine to what extent it is possible for a person to create and interact with such a phenomenon in a way that appears real and independent to the individual.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The questions serve the project's [goals](../Project/Goals.md) and call for suitable [research methods](../Research/Methods.md). [Research leads](../Research/Leads.md) collect possible starting points, including the proposed [Rohitassa interpretation](../Wiki/Buddhism/Speed%20of%20Light%20Encoded%20in%20the%20Rohitassa%20Sutta.md).
+
+[Garden map](../Map.md)
+<!-- #endregion -->

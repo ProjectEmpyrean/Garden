@@ -106,3 +106,12 @@
 > - However, there is only one type of superior which is true and rational: that which concords with the root of affection, desire itself.
 > - Thus, the superior is only that which is less stressful.
 > - Understanding this, setting the minimization of stress as the static and fundamental principle is rational and sufficient. The goal is no longer subject to momentary opinions. No longer subject to one's addiction to inferior experiences.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The [fundamental problem](../Concepts/Fundamental%20Problem.md) explains what these goals seek to resolve. [Strategy](../Project/Strategy.md) considers how to pursue them, while [Organization](../Project/Organization.md) describes how the work is shared.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

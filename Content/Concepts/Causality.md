@@ -23,3 +23,12 @@
 
 > ## Determinism is Unhedgable
 > - Similar to annihilation
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The role of causality matters to both [volition](../Concepts/Volition.md) and [decision models](../Concepts/Decision%20Models.md). [Karma](../Concepts/Karma.md) explores a related account of consequences, while [materialism](../Research/Materialism.md) examines the scope of physical explanation.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

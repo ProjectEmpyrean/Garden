@@ -6,3 +6,12 @@
 > One form of unhappiness consists of distress to unpleasant feeling, resulting in an additional layer of mental displeasure. It will typically be subvocal, or at least start as such. Thus the proliferation of a state of unhappiness.
 > 
 > Struggling in a sea of displeasure, the unhappy man is ever afflicted. Experiencing the sharp portrusions of pain, he suffers and objects. With a mind fundamentally sullied, how could he be expected to endure? For such a mind is dependent on pleasure, taking shelter in delight. His experience is heavy and turbulent, like a ship stranded in the rough seas. Overwhelmed with displeasure, the unhappy man suffers the consequences of impurity.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+This account connects [desire](../Concepts/Desire.md) with [stress](../Concepts/Stress.md) and contrasts them with [happiness](../Concepts/Happiness.md). The [fundamental problem](../Concepts/Fundamental%20Problem.md) develops the broader argument.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

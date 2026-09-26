@@ -48,3 +48,12 @@
 > dh -.- ds -.- de -.- rs -.- rh -.- dive -.- ue
 > 
 > ```
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The sequence builds on distinctions in the [eighteen mental preoccupations](../../Wiki/Buddhism/18%20Mental%20Preoccupations.md). [Renunciation](../../Concepts/Renunciation.md) discusses relinquishment more broadly, while [the root of all things](../../Wiki/Buddhism/The%20Root%20of%20All%20Things.md) examines conception and delight.
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

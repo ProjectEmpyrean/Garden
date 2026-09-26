@@ -9,3 +9,12 @@
 > Also how devas are said to be able to leave messages to humans via dreams.
 > 
 > N,N DMT might actually take one outside into courser realms of existence, rather than inwards and subtle as might be typically inferred.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These hypotheses connect [heavenly biology](../Concepts/Heavenly%20Biology.md) with questions about [materialism](../Research/Materialism.md). [Proteus](../Subprojects/Proteus.md) proposes investigating nonhuman beings, including the [Brahmā and DMT entity comparison](../Research/Brahma%20and%20DMT%20Entities.md).
+
+[Garden map](../Map.md)
+<!-- #endregion -->

@@ -151,3 +151,12 @@
 > 
 > ## See Also
 > [[Content/Wiki/Buddhism/Devas/Index|Devas]]
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+This proposal develops [enjoyment](../Concepts/Enjoyment.md) into a form of [heavenly existence](../Concepts/Heavenly%20Existence.md). [Morpheus](../Subprojects/Morpheus.md) explores dream conditioning, while [Apotheosis](../Subprojects/Apotheosis.md) frames the wider project.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

@@ -110,3 +110,12 @@
 > 10. Music
 > 
 >     - The best music, automatically mixed and synced to current mood and environment, controlled by you on a high declarative level
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These notes consider how [desire](../Concepts/Desire.md) can be directed toward the project's [goals](../Project/Goals.md). [Merit](../Concepts/Merit.md) and [renunciation](../Concepts/Renunciation.md) describe two relevant orientations for practice.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

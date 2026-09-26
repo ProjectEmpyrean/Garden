@@ -47,3 +47,12 @@
 > ## Aliens
 > - Ariel School UFO incident
 > 	- https://en.wikipedia.org/wiki/Ariel_School_UFO_incident
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+[Research leads](../Research/Leads.md) collect possible avenues for investigating nonhuman beings. [Interdimensional perception](../Concepts/Interdimensional%20Perception.md) considers how they might be encountered, and [Apotheosis](../Subprojects/Apotheosis.md) explains why superior forms of existence matter to the project.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

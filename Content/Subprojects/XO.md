@@ -51,3 +51,12 @@
 > Two kind of knowledge: embodied and computerized. Embody as much as is possible, and leave the rest to computation, with the latter requireing some form of environmental input.
 > 
 > Knowledge is qualified by justification and opinion. Knowledge models tuned by induviduals to account for these factors.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The proposed exocortex connects [knowledge](../Concepts/Knowledge.md), [decision models](../Concepts/Decision%20Models.md), and [volition](../Concepts/Volition.md). [Hermes](../Subprojects/Hermes.md) considers extending access beyond human embodiment.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

@@ -25,3 +25,12 @@
 > Materialism derives its conclusions from experiments conducted on crude matter using instruments constructed out of crude matter using bodies made up of crude matter. If there were other layers to matter quite removed from the crude, then how could it be discerned through the crude?
 > 
 > But the mind is not made of crude matter, yet it possess the ability to cognize through the body. In this way mind is foremost, and in that case, might it be possible to discern other dimensions of matter directly by the mind?
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These arguments concern the scope of [causality](../Concepts/Causality.md) and the possibility of [rebirth](../Concepts/Rebirth.md). [Interdimensional perception](../Concepts/Interdimensional%20Perception.md) develops a related hypothesis; [research methods](../Research/Methods.md) concerns how to evaluate such claims.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

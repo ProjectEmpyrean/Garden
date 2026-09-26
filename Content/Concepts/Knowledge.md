@@ -29,3 +29,12 @@
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
 > So then as there is volitional causaiility, and a potentially infinite domain of choice at every moment where there is an opportunity for choice, out of this domain how does one know and choose those actions which are most condusive to this ideal? The answer to this life is quite apparent and well understood. Things here abide by a relatively comprehensible model of operation. With one\'s intellect they may break things apart and make plans that are relatively certainto come true. But what of one\'s expistence beyond the breakdown of this body? That involves domains about which there is almost nothing known. All we have is the testimony of the wise who claim vision into those domains.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+[Research methods](../Research/Methods.md) examine how knowledge is acquired and justified. [Decision models](../Concepts/Decision%20Models.md) concern its use, [XO](../Subprojects/XO.md) its availability in action, and [Atlas](../Subprojects/Atlas.md) its preservation.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

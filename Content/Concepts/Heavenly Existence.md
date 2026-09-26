@@ -29,3 +29,12 @@
 > ## God and the Devas
 > 
 > Experience pleasure beyond human comparison.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+[Human existence](../Concepts/Human%20Existence.md) explains the limitations these possibilities seek to overcome. [Heavenly biology](../Concepts/Heavenly%20Biology.md) considers embodiment, [Elysium](../Subprojects/Elysium.md) develops a proposed experience, and [heavenly happiness](../Wiki/Buddhism/Heavenly%20Happiness.md) collects Buddhist comparisons.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

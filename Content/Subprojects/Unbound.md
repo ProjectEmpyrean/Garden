@@ -12,3 +12,12 @@
 > - This is a greater ideal, but more uncertain
 > - Arahants
 > ## The Buddhist View Cannot be Ignored
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The aim here connects [renunciation](../Concepts/Renunciation.md) with a permanent end to [stress](../Concepts/Stress.md). [Ulysses](../Subprojects/Ulysses.md) and [Basanos](../Subprojects/Basanos.md) address how claims of attainment might be verified.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

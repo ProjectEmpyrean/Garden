@@ -13,3 +13,12 @@
 > > Tasting a flavor with the tongue …
 > > Feeling a touch with the body …
 > > Becoming conscious of an idea with the mind, one is preoccupied with an idea that’s a basis for happiness or sadness or equanimity. So there are six preoccupations with **happiness**, six preoccupations with **sadness**, and six preoccupations with **equanimity**. (Sujato)
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+This classification connects [feeling](../../Concepts/Feeling.md) and [emotions](../../Concepts/Emotions.md). [Gradual relinquishment](../../Wiki/Buddhism/Gradual%20Relinquishment.md) develops the distinctions between domestic and renunciate responses.
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

@@ -96,3 +96,12 @@
 > ### The Ideal Holy Life
 > 
 > Craving is low, relatively uniform, relatively stable. Mid to high affinity in the beginning. Total affinity at release. Highest productivity and investment in the case this doctrine is true.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The limitations of [human existence](../Concepts/Human%20Existence.md) motivate this project. [Homo Deus](../Subprojects/Homo%20Deus.md) develops an imagined body and world, [Elysium](../Subprojects/Elysium.md) explores sustained enjoyment, and [Proteus](../Subprojects/Proteus.md) seeks evidence of superior beings.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

@@ -19,3 +19,12 @@
 >   Pleasant Now     Wise             Ignorant
 >   Unpleasant Now   Wise             Ignorant
 >   ---------------- ---------------- ------------------
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The distinction between present and future results is relevant to [volition](../../Concepts/Volition.md) and [decision models](../../Concepts/Decision%20Models.md). [Reflection](../../Wiki/Buddhism/Reflection.md) concerns evaluating actions before carrying them out.
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

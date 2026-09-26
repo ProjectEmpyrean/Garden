@@ -17,3 +17,12 @@
 > > It's possible that some woman or man who has observed the eight-factored sabbath will---when their body breaks up, after death---be reborn in the company of the gods who control what is created by others.
 > >
 > > This is what I was referring to when I said: \'Human kingship is a poor thing compared to the happiness of the gods.\'\" (Sujato)
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+These comparisons give context to [heavenly existence](../../Concepts/Heavenly%20Existence.md). [Devas](../../Wiki/Buddhism/Devas/Index.md) describes the beings, and [lifespan of devas](../../Wiki/Buddhism/Lifespan%20of%20Devas.md) considers the duration of those existences.
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

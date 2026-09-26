@@ -132,3 +132,12 @@
 > # Redundancy
 > 
 > Purity is the primary objective, but power is a factor of redundancy. With an impure mind, one is vulnerable to stress, and power is there to protect the mind from it. Until cessation is attained, power will be a necessary redundant factor.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+Models connect [knowledge](../Concepts/Knowledge.md) to [volition](../Concepts/Volition.md). [XO](../Subprojects/XO.md) proposes tools for using them, and the [four consolations](../Wiki/Buddhism/Four%20Consolations.md) offer a case of reasoning under uncertainty.
+
+[Garden map](../Map.md)
+<!-- #endregion -->

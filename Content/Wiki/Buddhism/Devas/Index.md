@@ -86,3 +86,12 @@
 > 	parental reference implied.
 > 
 > [^4]: PED for deva.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+For related details, see [heavenly biology](../../../Concepts/Heavenly%20Biology.md), [heavenly happiness](../../../Wiki/Buddhism/Heavenly%20Happiness.md), and the [lifespan of devas](../../../Wiki/Buddhism/Lifespan%20of%20Devas.md). [How to go to heaven](../../../Wiki/Buddhism/How%20to%20Go%20to%20Heaven.md) collects passages about rebirth there.
+
+[Garden map](../../../Map.md)
+<!-- #endregion -->

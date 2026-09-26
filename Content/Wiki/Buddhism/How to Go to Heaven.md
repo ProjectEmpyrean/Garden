@@ -158,3 +158,12 @@
 > - [ ] Fix quotation marks in quotes. Speech attributed to the Buddha is usually enclosed.
 > - [ ] Check if referenced passages have parallels
 > %%
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The practices collected here connect [merit](../../Concepts/Merit.md) with [rebirth by choice](../../Wiki/Buddhism/Rebirth%20By%20Choice.md). [Devas](../../Wiki/Buddhism/Devas/Index.md) and [heavenly happiness](../../Wiki/Buddhism/Heavenly%20Happiness.md) describe the destinations under discussion.
+
+[Garden map](../../Map.md)
+<!-- #endregion -->

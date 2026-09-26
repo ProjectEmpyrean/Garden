@@ -93,3 +93,12 @@
 > - The total cessation of all craving -- permanant happiness.
 > 
 > The essence of one potential ideal is attained through the total fulfilment of either of the factors governing discontentment. Getting exactly and whatever one wants immediately, there is the total fulfilment of satisfaction. And yet want nothing at all indefinitely, there is the total fulfilment by relinquishment. With the knowledge of the attainment and maintainence of this ideal state, acting in accordance whenever there is an opportunity for volition, one exists with supreme happiness in perpetuity.
+
+<!-- AI -->
+<!-- #region -->
+## Related topics (AI recommended)
+
+The distinction between satisfying desire and ending it connects [enjoyment](../Concepts/Enjoyment.md) with [renunciation](../Concepts/Renunciation.md). [Human existence](../Concepts/Human%20Existence.md) examines the limits of sustaining happiness in a human body.
+
+[Garden map](../Map.md)
+<!-- #endregion -->
