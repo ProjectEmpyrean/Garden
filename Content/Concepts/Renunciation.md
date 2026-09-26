@@ -33,5 +33,7 @@ Relinquishing [desire](../Concepts/Desire.md) offers a different approach to [ha
 
 The hierarchy above is qualified by the [current criterion of sufficient happiness](../Contradictions.md#4-sufficient-happiness-and-complete-liberation).
 
+The [resolution on indefinite gratification](../Contradictions.md#8-indefinite-gratification-and-dependence-on-conditions) distinguishes vulnerability to losing supporting conditions from inevitable failure or boredom.
+
 [Garden map](../Map.md)
 <!-- #endregion -->

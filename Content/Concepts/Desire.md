@@ -57,6 +57,9 @@
 > 
 > As desire is being continually gratified, there is a great resolution and attenuation of desires that would otherwise be present. How does this all work? By understanding the machanics of desire, an ideal being and world can be constructed such that there is a continual gratification of a high degree.
 
+<!-- AI -->
+<a id="two-approaches"></a>
+
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
 > # Two Approaches
@@ -77,6 +80,8 @@
 ## Related topics (AI recommended)
 
 [Enjoyment](../Concepts/Enjoyment.md) examines the satisfaction of desire; [renunciation](../Concepts/Renunciation.md) examines relinquishment. [Motivation](../Concepts/Motivation.md) considers how desire can shape action, and [stress](../Concepts/Stress.md) considers its unresolved forms.
+
+The [resolution on indefinite gratification](../Contradictions.md#8-indefinite-gratification-and-dependence-on-conditions) explains its theoretical sufficiency while its supporting conditions persist.
 
 [Garden map](../Map.md)
 <!-- #endregion -->

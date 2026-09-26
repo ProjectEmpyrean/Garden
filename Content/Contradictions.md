@@ -77,5 +77,14 @@ Volition refers to choice above a threshold of apparent deliberateness. The defi
 
 Someone experiencing anything already implies personal existence in the sense of a perceived substantial self-identity. Neutral phenomena or feeling enveloped in that perception therefore constitute personal existence just as pleasant or unpleasant feeling can. Neutrality alone does not establish transcendence: the relevant distinction is the presence of perceived self-identity, not the experience's pleasant, unpleasant, or neutral character. The index's equation of feeling neither good nor bad with going beyond existence is therefore insufficient as stated.
 
+## 8. Indefinite gratification and dependence on conditions
+
+- [Two approaches to desire](Concepts/Desire.md#two-approaches) allows either its satisfaction or abandonment to qualify as ultimate attainment.
+- [Dependence on supporting conditions](Concepts/Renunciation.md#hierarchy-of-being) describes the vulnerability of happiness sustained by gratification.
+
+### Resolution
+
+Indefinite gratification is sufficient in theory, provided the conditions sustaining it remain. Dependence establishes vulnerability to their loss, not that their loss is inevitable. Boredom is itself a condition for unhappiness; it is not inherent in gratification or a necessary consequence of its duration. Considered on its own, gratification does not become unsatisfactory merely by continuing indefinitely. Whether its supporting conditions can actually be maintained indefinitely remains a practical question.
+
 [Garden map](Map.md)
 <!-- #endregion -->
