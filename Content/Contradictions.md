@@ -113,5 +113,14 @@ The current strategy combines focused research with background exploration. Focu
 
 The goal is indefinite happiness. No prescribed measure of permanence or certainty serves as a formal completion criterion. Research and revision serve that goal for as long as they are needed. If a sufficiently secure state is reached, the project would come to an end implicitly, without a declaration of completion. The aspiration to security therefore does not impose a separate requirement to certify permanence.
 
+## 12. Exercising volition under uncertainty about determinism
+
+- [Determinism described as unhedgeable](Concepts/Causality.md#determinism) compares it to annihilation.
+- [Optimizing volition](Concepts/Volition.md#optimizing-volition) advocates exercising choice without resolving the free-will debate.
+
+### Resolution
+
+Volition exists as an experienced phenomenon, and exercising it toward the goal is the only rational course in the project's practical framework. Even apparent certainty of determinism does not establish its truth: total certitude remains an epistemological problem. Neither uncertainty nor a claim of certainty therefore warrants abandoning volition. Settling the metaphysical debate is unnecessary for this decision, and the earlier description of determinism as unhedgeable does not change that course.
+
 [Garden map](Map.md)
 <!-- #endregion -->

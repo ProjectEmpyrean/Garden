@@ -65,6 +65,9 @@
 > 
 > Feeling is omitted as once it has come into play, there is nothing that can be done in this level to preemtively avoid the acquisition of displeasure.
 
+<!-- AI -->
+<a id="optimizing-volition"></a>
+
 ## `Content/Project Empyrean.md`
 
 > ## Optimizing Volition
@@ -165,6 +168,8 @@
 [Decision models](../Concepts/Decision%20Models.md) and [knowledge](../Concepts/Knowledge.md) concern how choices are guided. The Buddhist discussions of [reflection](../Wiki/Buddhism/Reflection.md) and the [four kinds of practice](../Wiki/Buddhism/Four%20Kinds%20of%20Practice.md) examine actions through their consequences.
 
 The [current definition of volition](../Contradictions.md#6-volition-and-subconscious-impulse) uses a threshold of apparent deliberateness and excludes subconscious impulse, without settling the question of free will.
+
+The [practical rule under uncertainty about determinism](../Contradictions.md#12-exercising-volition-under-uncertainty-about-determinism) is to exercise volition toward the goal without waiting for that debate to be settled.
 
 [Garden map](../Map.md)
 <!-- #endregion -->

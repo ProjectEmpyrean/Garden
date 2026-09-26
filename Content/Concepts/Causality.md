@@ -19,6 +19,9 @@
 > - Quantum physics
 > - Rationally speaking, as consciousness is categorically unique, and interacts with matter, it only makes sense for there to be mental causality
 
+<!-- AI -->
+<a id="determinism"></a>
+
 ## `Content/Project Empyrean Draft.md`
 
 > ## Determinism is Unhedgable
@@ -29,6 +32,8 @@
 ## Related topics (AI recommended)
 
 The role of causality matters to both [volition](../Concepts/Volition.md) and [decision models](../Concepts/Decision%20Models.md). [Karma](../Concepts/Karma.md) explores a related account of consequences, while [materialism](../Research/Materialism.md) examines the scope of physical explanation.
+
+The [resolution on determinism](../Contradictions.md#12-exercising-volition-under-uncertainty-about-determinism) favors exercising volition even in the presence of claimed certainty about determinism, since such certainty does not establish its truth.
 
 [Garden map](../Map.md)
 <!-- #endregion -->
