@@ -32,11 +32,7 @@
 > - [[Content/Operations/Operation Proteus/index|Proteus]]
 > 	- Empirically verify the existence of superior extra-sapien beings.
 
-## `Content/Authors/Shashank Rajesh/Finding Superhumans.md`
-
-> # Those who hold supernormal states and abilities, capable to seeing that which we and our instruments would be blind to. The psychics, mediums, s
-
-## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
+## `Content/Authors/Shashank Rajesh/Finding Superhumans.md` · `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
 > # Finding Superhumans
 > 

@@ -12,12 +12,6 @@
 > 		- Morpheus for establishing the mental patterning
 > 	- Hermes for retaining access to the cybersphere after death
 
-## `Content/Project Empyrean.md`
-
-> - Phoenix
-> 	- Contingency in case nibbana turns out to be false
-> 	- Restore and maintain an optimal configuration of desire to ensure indefinite happiness
-
 <!-- AI -->
 <!-- #region -->
 ## Related topics (AI recommended)
