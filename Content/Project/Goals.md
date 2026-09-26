@@ -1,9 +1,11 @@
 <!-- AI -->
+<!-- #region -->
 <a id="current-and-subsequent-lives"></a>
 
-## `Content/Authors/Shashank Rajesh/Drafts/Project Empyrean (2).md`
+# Goals
 
-> Insofar as all states of unhappiness are governed by causality within range of volition, Project Empyrean seeks epistemically certain solutions by which all deliberate choices may be optimally constrained for the indefinite minimization and permanent end of unhappiness in both current, and especially subsequent lives. In other words, transcending ordinary human existence into the heavens and beyond.
+Project Empyrean seeks indefinite happiness by using knowledge to guide deliberate choice, in this life and subsequent personal existence. Happiness need only remain above the subjective threshold of complaint; maximizing its intensity is not the goal. Transcending personal existence also qualifies insofar as it eliminates the possibility of unhappiness.
+<!-- #endregion -->
 
 <!-- AI -->
 <a id="sufficient-happiness"></a>
@@ -18,30 +20,13 @@
 
 ## `Content/Authors/Shashank Rajesh/Drafts/Project Empyrean (3).md`
 
-> ```{=org}
-> #+PROPERTY: header-args:mermaid :file (concat "/tmp/" (org-id-uuid) ".png") :cache yes :scale 3
-> ```
-> Insofar as suffering is governed by causality within range of volition, Project Empyrean seeks epistemically certain knowledge by which volition may be constrained for the indefinite maintainence of stress below a threshold. In other words, eternal happiness.
-
-## `Content/Authors/Shashank Rajesh/Drafts/Project Empyrean (3).md`
-
 > # Intro
-> 
-> Insofar as all states of happiness are governed by causality within range of volition, Project Empyrean seeks epistemically certain solutions by which all deliberate choices may be optimally constrained for the indefinite minimization of all states of distress in both current, and especially subsequent existences. In other words, transcending the ordinary human paradigm into the heavens and beyond.
 > 
 > (Founder\'s Prospectus by Shashank Rajesh)
 > 
 > As stated above, Project Empyrean is a non-profit research organisation established for the purpose of attaining epistemically certain solutions for the indefinite sustinence of happiness. The initial pursuit of this goal is in the form of this very document, an explorative prospectus into the scope of the organisation\'s activities as they pertain to the goal. In the interest of expressiveness I will make free use of personal pronouns thoughout this document. There may be errors or logical inconsistencies, and I do not proclaim any form of absolute knowledge, but I do believe this formulation to be sufficient in its purpose of initializing the formation of this organisation. I do expect a more formal specification going forward.
 > 
 > An organisation comes into being as a response to a set of problems--this organisation responds the problem that underlies *every* problem:
-
-## `Content/Authors/Shashank Rajesh/Drafts/Project Empyrean 3.md`
-
-> Insofar as all negative emotional tendencies beyond a threshold i.e. unhappiness are governed bycausality within range of volition, Project Empyrean seeks epistemically certain solutions by which volitional activity may be optimally constrained for the indefinite minimization and permanent cessation of all states of such distress. In other words, transcending the conventional human paradigm into and even beyond heavenly planes of sustained satisfaction beyond ordinary conception.
-
-## `Content/Authors/Shashank Rajesh/Drafts/Project Empyrean.md`
-
-> Insofar as all shades of suffering are governed by causality within range of volition, Project Empyrean seeks epistemically certain solutions by which volition may be optimally constrained for the indefinite minimization of all states of stress in both current and subsequent lives. In other words, transcending ordinary human existence into the heavens and beyond.
 
 <!-- AI -->
 <a id="infallible-attainments"></a>
@@ -66,14 +51,8 @@
 > 
 > What choices? Knowledge can help guide these choices, so that they really do turn out to be condusive to the goal. And how to aquire knowlege? Through information, contemplation, and direct experience.
 
-## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
-
-> Project Empyrean seeks epistemically certain solutions to this fundemental problem of discontentment in the form of true knowledge by which volition may be constrained in such a manner leading to the highest possible attainment of happiness and contentment.
-
 ## `Content/Project Empyrean Draft.md`
 
-> **Goal: constrain volition for indefinite happiness.**
-> 
 > Knowledge is to be gathered to inform constraints and increase probability of success.
 
 ## `Content/Project Empyrean.md`
