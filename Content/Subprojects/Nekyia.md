@@ -3,3 +3,8 @@
 - Past life accounts such as those studied by Dr. Ian Stevenson present indications of rebirth, though limited to the human dimension. Nekyia extends this into paranormal dimensions by providing mechanisms for communication of potentially rearisen consciousness after death, potentially utilizing [[Hermes]] interfaces to provide these beings to prove their connection with deceased human beings to provide evidence of rebirth.
 - https://www.youtube.com/watch?v=GMGkMoz8NnI is an intruiging case. Supposing that Theresa was indeed disembodied, the psychic served as the medium through which her rebirth was proven. But we need something more reliable than this.
 - We can begin immediately. Ideally, every dying person would participate in this program thus providing the highest chances of evidence.
+
+## `Content/Project Empyrean.md`
+
+> - Nekyia
+> 	- Commune with the dead to verify rebirth
