@@ -19,6 +19,10 @@ title: Project Empyrean
 - Bad
 	- Displeasure perceived as personal
 ## Beyond Existence
+
+<!-- AI -->
+The claim below is qualified by the [resolution on neutral feeling and personal existence](Contradictions.md#7-neutral-feeling-and-personal-existence): neutrality within a perceived self-identity remains personal existence.
+
 - When one feels neither good nor bad, they've gone beyond existence, undefined.
 - This is not dull, dark, black, or dreary. Dull, dark, black, and dreary are unpleasant feelings. A common misconception.
 - Where one is beyond, they don't feel bad. Not feeling bad, they're accomplished in the fundamental goal.

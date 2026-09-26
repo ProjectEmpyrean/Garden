@@ -10,6 +10,9 @@
 > 
 > # The illusion of persistence arises based on the perception of continuity.
 
+<!-- AI -->
+<a id="personal-uptake"></a>
+
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
 > # A Phenomenology of Existence
@@ -217,6 +220,8 @@
 ## Related topics (AI recommended)
 
 This model separates [feeling](../Concepts/Feeling.md) from its uptake into [emotions](../Concepts/Emotions.md). [Volition](../Concepts/Volition.md) concerns how that process might be influenced; the [fundamental problem](../Concepts/Fundamental%20Problem.md) explains why.
+
+Neutral feeling within a perceived self-identity remains [personal existence](../Contradictions.md#7-neutral-feeling-and-personal-existence).
 
 [Garden map](../Map.md)
 <!-- #endregion -->

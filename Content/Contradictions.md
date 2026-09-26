@@ -68,5 +68,14 @@ The first claim concerns the limited duration of an action's benefit to the expe
 
 Volition refers to choice above a threshold of apparent deliberateness. The definition concerns the experienced phenomenon of choosing—what appears to be free will—without settling whether metaphysical free will exists. Subconscious impulses fall outside this use of the term. Volition and involuntary impulses may nevertheless belong to the same underlying process; that possible continuity does not erase the distinction in how they appear.
 
+## 7. Neutral feeling and personal existence
+
+- [Beyond existence](index.md#beyond-existence) associates feeling neither good nor bad with going beyond existence.
+- [Personal uptake of neutral feeling](Concepts/Subjective%20Existence.md#personal-uptake) includes neutral feeling within personal existence.
+
+### Resolution
+
+Someone experiencing anything already implies personal existence in the sense of a perceived substantial self-identity. Neutral phenomena or feeling enveloped in that perception therefore constitute personal existence just as pleasant or unpleasant feeling can. Neutrality alone does not establish transcendence: the relevant distinction is the presence of perceived self-identity, not the experience's pleasant, unpleasant, or neutral character. The index's equation of feeling neither good nor bad with going beyond existence is therefore insufficient as stated.
+
 [Garden map](Map.md)
 <!-- #endregion -->
