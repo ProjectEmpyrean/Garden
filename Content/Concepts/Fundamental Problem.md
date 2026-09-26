@@ -61,10 +61,7 @@
 > There are at least two different definitions for *problem*: the first is of an impersonal kind. For instance, a an unsolved algebraic equation or a puzzle. The phenomena is considered a *problem to be solved*, regardless of whether or not it is perceived by an individual. This is not the kind of problem being referred to.
 > 
 > The second and more pertinent definition is of the kind which arises as a subjective experience itself. The definition is as follows:
-> 
-> > **Problem**
-> > 1. a matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome. (Oxford Languages, via Google)
-> 
+
 > A slight modification of this definition is necessary. Here, the object of experience is itself regarded as the problem, but it will be inverted: a problem is regarded as the *subjective experience of regarding* a thing or situation as problematic itself.
 > 
 > This experience of regarding may be gross or subtle, conscious or subconscious. When a person is suffering, they are aware of the problematic nature of that experience by way of their own judgement. But to a person experiencing delirium, that recognition is less prominent. Nonetheless, there is a mental tendency to "color" the experience as problematic, however subtle it may be. This quasi-volitional response to and creation of displeasurable phenomena is the kind of *problem* being referred to.
