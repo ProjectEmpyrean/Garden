@@ -6,6 +6,9 @@
 > - Even if humans went extinct, the relevant conditions will likely form again in the future
 > - Explore other theories of conscsiousness
 
+<!-- AI -->
+<a id="action-without-rebirth"></a>
+
 ## `Content/Project Empyrean Draft.md`
 
 > ## Rebirth is a Necessary Assumption
@@ -155,6 +158,8 @@
 ## Related topics (AI recommended)
 
 [Nekyia](../Subprojects/Nekyia.md) proposes investigating continuity after death. [Karma](../Concepts/Karma.md) concerns possible causes, while [rebirth by choice](../Wiki/Buddhism/Rebirth%20By%20Choice.md) presents a Buddhist account of directing a future existence.
+
+The [discussion of action without rebirth](../Contradictions.md#5-the-value-of-action-without-rebirth) explains the judgment about a short remaining lifetime behind the claim that nothing would matter.
 
 [Garden map](../Map.md)
 <!-- #endregion -->

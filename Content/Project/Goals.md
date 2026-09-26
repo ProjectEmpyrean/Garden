@@ -1,3 +1,6 @@
+<!-- AI -->
+<a id="current-and-subsequent-lives"></a>
+
 ## `Content/Authors/Shashank Rajesh/Drafts/Project Empyrean (2).md`
 
 > Insofar as all states of unhappiness are governed by causality within range of volition, Project Empyrean seeks epistemically certain solutions by which all deliberate choices may be optimally constrained for the indefinite minimization and permanent end of unhappiness in both current, and especially subsequent lives. In other words, transcending ordinary human existence into the heavens and beyond.
@@ -117,6 +120,8 @@
 The [fundamental problem](../Concepts/Fundamental%20Problem.md) explains what these goals seek to resolve. [Strategy](../Project/Strategy.md) considers how to pursue them, while [Organization](../Project/Organization.md) describes how the work is shared.
 
 The [current endpoint](../Contradictions.md#4-sufficient-happiness-and-complete-liberation) is indefinite nominal happiness above a subjective threshold, rather than maximal intensity or refinement.
+
+The [value of action without rebirth](../Contradictions.md#5-the-value-of-action-without-rebirth) distinguishes effects during the present life from the value assigned to their limited duration.
 
 [Garden map](../Map.md)
 <!-- #endregion -->

@@ -50,5 +50,14 @@ The comparison between sensual gods and Brahmā gods illustrates this standard: 
 
 Transcending the paradigm of existence altogether also qualifies as a complete solution insofar as it eliminates the possibility of bad existence. It need not produce a more intense positive experience to do so. Complete liberation and indefinitely sufficient happiness therefore address the same emergent concern through different possibilities.
 
+## 5. The value of action without rebirth
+
+- [Action under the no-rebirth assumption](Concepts/Rebirth.md#action-without-rebirth) states that nothing one does matters if there is no rebirth.
+- [The project's scope](Project/Goals.md#current-and-subsequent-lives) includes happiness in both current and subsequent lives.
+
+### Resolution
+
+The first claim concerns the limited duration of an action's benefit to the experiencer, not an absence of effects before death. If death permanently ends experience, those benefits extend only through the remaining lifetime, and death is relatively near. The passage therefore questions the point of effort whose benefits are confined to that short horizon. Its dismissal is a judgment about the value of temporary outcomes in relation to indefinite happiness, rather than a denial that actions can improve present life. The argument is conditional on there being no rebirth.
+
 [Garden map](Map.md)
 <!-- #endregion -->
