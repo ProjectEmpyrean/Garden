@@ -6,6 +6,9 @@
 > 
 > # Therefore sensory delights are only useful as [*Authors/Shashank Rajesh/Skillful Thirst*]{.spurious-link target="Authors/Shashank Rajesh/Skillful Thirst"}.
 
+<!-- AI -->
+<a id="hierarchy-of-being"></a>
+
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
 > # A Heirarchy of Being
@@ -27,6 +30,8 @@
 ## Related topics (AI recommended)
 
 Relinquishing [desire](../Concepts/Desire.md) offers a different approach to [happiness](../Concepts/Happiness.md) from satisfying it. Compare the Buddhist account of [gradual relinquishment](../Wiki/Buddhism/Gradual%20Relinquishment.md) with [Unbound](../Subprojects/Unbound.md), which investigates a permanent end to distress.
+
+The hierarchy above is qualified by the [current criterion of sufficient happiness](../Contradictions.md#4-sufficient-happiness-and-complete-liberation).
 
 [Garden map](../Map.md)
 <!-- #endregion -->

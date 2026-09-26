@@ -37,5 +37,18 @@ The preferred description is now happiness and unhappiness, replacing *stress* a
 
 These passages are exploratory musings, not settled epistemological positions. What attainment can establish, and how its accompanying certainty could be justified or verified, remain open questions.
 
+## 4. Sufficient happiness and complete liberation
+
+- [A sufficient endpoint](Project/Goals.md#sufficient-happiness) allows striving to end with sustained happiness above a chosen threshold, despite incomplete freedom.
+- [A hierarchy favoring detachment](Concepts/Renunciation.md#hierarchy-of-being) ranks complete detachment highest and accepts lesser states only when necessary.
+
+### Resolution
+
+Maximizing the intensity of happiness has never been the goal. The goal has no independently fundamental basis; it emerges from existence itself. When existence becomes sufficiently bad, it prompts a movement toward a better state. The practical aim is indefinite nominal happiness: being sufficiently happy that no explicit or implicit complaint arises. This subjective threshold marks the point at which dissatisfaction would motivate action to improve the experience. Subtle irritation need not disqualify an otherwise happy experience when it does not amount to such complaint.
+
+The comparison between sensual gods and Brahmā gods illustrates this standard: their happiness may differ in refinement, yet both count as sufficiently happy insofar as neither finds the experience objectionable. The practical concern is securing that sufficiency, not pursuing a higher-ranked state solely because it is considered superior.
+
+Transcending the paradigm of existence altogether also qualifies as a complete solution insofar as it eliminates the possibility of bad existence. It need not produce a more intense positive experience to do so. Complete liberation and indefinitely sufficient happiness therefore address the same emergent concern through different possibilities.
+
 [Garden map](Map.md)
 <!-- #endregion -->

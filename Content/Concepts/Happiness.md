@@ -107,5 +107,7 @@ The relationship between happiness and unpleasant feeling is clarified in the [c
 
 The [further clarification](../Contradictions.md#2-pleasure-uptake-and-the-term-stress) includes equanimity, the absence of identity formation, unconsciousness, and nirvana within happiness.
 
+The [threshold for nominal happiness](../Contradictions.md#4-sufficient-happiness-and-complete-liberation) concerns subjective complaint, rather than the supposed amplitude of happiness.
+
 [Garden map](../Map.md)
 <!-- #endregion -->
