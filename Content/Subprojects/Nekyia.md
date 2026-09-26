@@ -1,3 +1,6 @@
+<!-- AI -->
+<a id="continuity-research"></a>
+
 - Consciousness certainly arises with the birth of new human beings, but are these a continuation of existing haecceity?
 - People die every minute. With so many people dying, it is a prime opportunity to emperically establish tests of continuity with both human and non-human consciousness rearising after death.
 - Past life accounts such as those studied by Dr. Ian Stevenson present indications of rebirth, though limited to the human dimension. Nekyia extends this into paranormal dimensions by providing mechanisms for communication of potentially rearisen consciousness after death, potentially utilizing [[Hermes]] interfaces to provide these beings to prove their connection with deceased human beings to provide evidence of rebirth.
@@ -14,6 +17,8 @@
 ## Related topics (AI recommended)
 
 The question of [rebirth](../Concepts/Rebirth.md) motivates these investigations. [Hermes](../Subprojects/Hermes.md) proposes a possible interface for communication, while [research methods](../Research/Methods.md) frame the need for evidence.
+
+The [current purpose of rebirth research](../Contradictions.md#9-assuming-rebirth-and-investigating-its-mechanisms) is to understand and influence the re-emergence of personal existence, taking its occurrence as a working assumption.
 
 [Garden map](../Map.md)
 <!-- #endregion -->

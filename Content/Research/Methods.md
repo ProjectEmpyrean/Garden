@@ -131,6 +131,9 @@
 > 
 > Time and time again have I fallen pray to faith. You drop your guard until its flaws inevitability become evident. Do not let those words on the screen deceive you, for there is no guarantee of their validity. Do not let those pre-conditioned notions of family, identity, and society invade the axiomatic foundation of your knowledge. Seek yourself, drop the dogma, remain pure of mind. Stop only after the goal has been attained, trust only in that attainment. All else is merely pragmatic.
 
+<!-- AI -->
+<a id="rebirth-assumption"></a>
+
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
 > # Steps
@@ -201,6 +204,8 @@
 These approaches support the garden's account of [knowledge](../Concepts/Knowledge.md) and its [research questions](../Research/Questions%20and%20Tasks.md). [Preserving the truth](../Wiki/Buddhism/Preserving%20the%20Truth.md) provides a Buddhist discussion of belief and justification.
 
 The claims about trusting attainment are [exploratory musings on an open epistemological question](../Contradictions.md#3-attainment-and-epistemic-certainty).
+
+The [resolution on rebirth research](../Contradictions.md#9-assuming-rebirth-and-investigating-its-mechanisms) makes re-emergence of personal existence a working assumption, with research directed toward its mechanisms and possible influence.
 
 [Garden map](../Map.md)
 <!-- #endregion -->

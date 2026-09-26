@@ -86,5 +86,14 @@ Someone experiencing anything already implies personal existence in the sense of
 
 Indefinite gratification is sufficient in theory, provided the conditions sustaining it remain. Dependence establishes vulnerability to their loss, not that their loss is inevitable. Boredom is itself a condition for unhappiness; it is not inherent in gratification or a necessary consequence of its duration. Considered on its own, gratification does not become unsatisfactory merely by continuing indefinitely. Whether its supporting conditions can actually be maintained indefinitely remains a practical question.
 
+## 9. Assuming rebirth and investigating its mechanisms
+
+- [Research under the rebirth assumption](Research/Methods.md#rebirth-assumption) treats establishing whether rebirth occurs as irrelevant to the decision to prepare for it.
+- [Nekyia](Subprojects/Nekyia.md#continuity-research) proposes tests of continuity after death to verify rebirth.
+
+### Resolution
+
+Rebirth here means the re-emergence of personal existence. The project takes this as a working assumption and investigates how it operates and how it can be influenced. Establishing that rebirth exists is not the research objective. Nekyia's proposed investigations are relevant insofar as they reveal the conditions and mechanisms of re-emergence and inform choices affecting future existence; its earlier emphasis on proof should be read in light of that purpose.
+
 [Garden map](Map.md)
 <!-- #endregion -->
