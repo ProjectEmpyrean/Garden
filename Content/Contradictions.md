@@ -59,5 +59,14 @@ Transcending the paradigm of existence altogether also qualifies as a complete s
 
 The first claim concerns the limited duration of an action's benefit to the experiencer, not an absence of effects before death. If death permanently ends experience, those benefits extend only through the remaining lifetime, and death is relatively near. The passage therefore questions the point of effort whose benefits are confined to that short horizon. Its dismissal is a judgment about the value of temporary outcomes in relation to indefinite happiness, rather than a denial that actions can improve present life. The argument is conditional on there being no rebirth.
 
+## 6. Volition and subconscious impulse
+
+- [The threshold of deliberateness](Concepts/Volition.md#deliberateness-threshold) distinguishes impulse from volition.
+- [A broader continuum](Concepts/Volition.md#subconscious-to-deliberate) instead describes volition as extending from subconscious to overtly deliberate activity.
+
+### Resolution
+
+Volition refers to choice above a threshold of apparent deliberateness. The definition concerns the experienced phenomenon of choosing—what appears to be free will—without settling whether metaphysical free will exists. Subconscious impulses fall outside this use of the term. Volition and involuntary impulses may nevertheless belong to the same underlying process; that possible continuity does not erase the distinction in how they appear.
+
 [Garden map](Map.md)
 <!-- #endregion -->

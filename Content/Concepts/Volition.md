@@ -9,6 +9,9 @@
 > 
 > Volition is the mental phenomena of deliberate choice through body, speech, or mind. This necessarily implies a sense of identity.
 
+<!-- AI -->
+<a id="deliberateness-threshold"></a>
+
 ## `Content/Authors/Shashank Rajesh/Drafts/Project Empyrean (3).md`
 
 > # Deliberate and Indeliberate Actions
@@ -96,6 +99,9 @@
 > #### The Primary Channel and Breaking Rules
 > With the assumption of a stable mechanism for the production of ideal states beyond death, a primary channel of operation can be established and followed. Given that the maximization of activity within this channel can be seen as ideal, it may be condusive to operate outside of these bounds at times in order to ensure the long term alignment within this channel. If death can be avoided by veering outside of this, and the consequence is less undesirable than the opportunity cost of prolonged life within the channel, then the rules should be broken in that instance.
 
+<!-- AI -->
+<a id="subconscious-to-deliberate"></a>
+
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
 > # Graduated Volition and its Triggers
@@ -157,6 +163,8 @@
 ## Related topics (AI recommended)
 
 [Decision models](../Concepts/Decision%20Models.md) and [knowledge](../Concepts/Knowledge.md) concern how choices are guided. The Buddhist discussions of [reflection](../Wiki/Buddhism/Reflection.md) and the [four kinds of practice](../Wiki/Buddhism/Four%20Kinds%20of%20Practice.md) examine actions through their consequences.
+
+The [current definition of volition](../Contradictions.md#6-volition-and-subconscious-impulse) uses a threshold of apparent deliberateness and excludes subconscious impulse, without settling the question of free will.
 
 [Garden map](../Map.md)
 <!-- #endregion -->
