@@ -53,29 +53,29 @@
 > ```{=org}
 > #+alias: Domestic Happiness
 > ```
-> # Happiness born of sensual enjoyment as a human being.
+> Happiness born of sensual enjoyment as a human being.
 > 
-> ## Health
+> - Health
 > 
-> ## Youth
+> - Youth
 > 
-> ## Strength
+> - Strength
 > 
-> ## Charisma
+> - Charisma
 > 
-> ## Power
+> - Power
 > 
-> ## Authority
+> - Authority
 > 
-> ## Wealth
+> - Wealth
 > 
-> ## Fame
+> - Fame
 > 
-> ## Renown
+> - Renown
 > 
-> ## Respect
+> - Respect
 > 
-> ## Abundance
+> - Abundance
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 

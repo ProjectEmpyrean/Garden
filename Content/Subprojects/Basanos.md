@@ -14,7 +14,7 @@
 
 ## `Content/Authors/Shashank Rajesh/Testing Arahants.md`
 
-> # How can we empirically verify that a person is truly an arahant?
+> How can we empirically verify that a person is truly an arahant?
 
 ## `Content/Project Empyrean.md`
 

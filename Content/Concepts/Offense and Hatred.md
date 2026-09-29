@@ -6,11 +6,11 @@
 > ```{=org}
 > #+tags: draft
 > ```
-> # Action for nullifying [*offense*]{.spurious-link target="Shashank Rajesh/Avoiding Offense Within Duality"} and abuse.
+> Action for nullifying [*offense*]{.spurious-link target="Shashank Rajesh/Avoiding Offense Within Duality"} and abuse.
 > 
-> ## Wit is quite effective if there is a need to actively parry verbal abuse, though perhaps consequential.
+> Wit is quite effective if there is a need to actively parry verbal abuse, though perhaps consequential.
 > 
-> # Can prevent [*Terms/Stress*]{.spurious-link target="Terms/Stress"} in the short term, but have undesirable consequences.
+> Can prevent [*Terms/Stress*]{.spurious-link target="Terms/Stress"} in the short term, but have undesirable consequences.
 > 
 > ## [Dhp 3-5](https://suttacentral.net/dhp1-20/en/buddharakkhita?lang=en)
 > 
@@ -22,13 +22,13 @@
 
 ## `Content/Authors/Shashank Rajesh/Vortex of Hatred.md`
 
-> # Opposite to [*The Vortex of Enjoyment*]{.spurious-link target="The Vortex of Enjoyment"}.
+> Opposite to [*The Vortex of Enjoyment*]{.spurious-link target="The Vortex of Enjoyment"}.
 > 
-> # Very easy to fall into in this age of conflict.
+> Very easy to fall into in this age of conflict.
 > 
-> # A mass of suffering, a waste of time, and a cause of future suffering.
+> A mass of suffering, a waste of time, and a cause of future suffering.
 > 
-> # Avoid at all costs.
+> Avoid at all costs.
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 

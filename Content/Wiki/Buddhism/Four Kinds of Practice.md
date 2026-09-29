@@ -2,7 +2,9 @@
 
 ## `Content/Authors/Shashank Rajesh/Four Kinds of Practice.md`
 
-> # The Buddha gives four kinds of practice in [MN 46 Mahadhammasamadanasutta](https://suttacentral.net/mn46): {#the-buddha-gives-four-kinds-of-practice-in-mn-46-mahadhammasamadanasutta title="Authors/Shashank Rajesh/Four Kinds of Practice"}
+> <a id="the-buddha-gives-four-kinds-of-practice-in-mn-46-mahadhammasamadanasutta"></a>
+>
+> The Buddha gives four kinds of practice in [MN 46 Mahadhammasamadanasutta](https://suttacentral.net/mn46):
 > 
 > > *yebhuyyena, bhikkhave, sattā evaṅkāmā evaṁchandā evaṁadhippāyā: 'aho vata aniṭṭhā akantā amanāpā dhammā parihāyeyyuṁ, iṭṭhā kantā manāpā dhammā abhivaḍḍheyyun'ti.*
 > >
@@ -12,7 +14,7 @@
 > >
 > > Mendicants, there are these four ways of taking up practices. What four? There is a way of taking up practices that is painful now and results in future pain. There is a way of taking up practices that is pleasant now but results in future pain. There is a way of taking up practices that is painful now but results in future pleasure. There is a way of taking up practices that is pleasant now and results in future pleasure. (Sujato)
 > 
-> ## For the ordinary being desiring the superior:
+> For the ordinary being desiring the superior:
 > 
 >   ---------------- ---------------- ------------------
 >   Feeling          Pleasant Later   Unpleasant Later

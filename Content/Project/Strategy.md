@@ -40,9 +40,9 @@
 
 ## `Content/Authors/Shashank Rajesh/Time.md`
 
-> # Time is a primary constraint.
+> Time is a primary constraint.
 > 
-> # [*Authors/Shashank Rajesh/Opportunity Cost*]{.spurious-link target="Authors/Shashank Rajesh/Opportunity Cost"}
+> [*Authors/Shashank Rajesh/Opportunity Cost*]{.spurious-link target="Authors/Shashank Rajesh/Opportunity Cost"}
 
 <!-- AI -->
 <!-- #region -->

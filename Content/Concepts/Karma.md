@@ -1,8 +1,8 @@
 ## `Content/Authors/Shashank Rajesh/Karma as an Approximation.md`
 
-> # Could karma be an approximation for mechanics of a large variety of related phenomena?
+> Could karma be an approximation for mechanics of a large variety of related phenomena?
 > 
-> # In this case, there is no one singe \"karma field\" just as there\'s no single \"energy field\" in physics. Its just a convenient model to explain and predict the state of a system.
+> In this case, there is no one singe \"karma field\" just as there\'s no single \"energy field\" in physics. Its just a convenient model to explain and predict the state of a system.
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 

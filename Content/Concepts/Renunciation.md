@@ -1,10 +1,10 @@
 ## `Content/Authors/Shashank Rajesh/Prospectus.md`
 
-> # Sensory enjoyment is useless
+> Sensory enjoyment is useless
 > 
-> ## The contemplative lifestyle with mastery of jhana is far superior
+> The contemplative lifestyle with mastery of jhana is far superior
 > 
-> # Therefore sensory delights are only useful as [*Authors/Shashank Rajesh/Skillful Thirst*]{.spurious-link target="Authors/Shashank Rajesh/Skillful Thirst"}.
+> Therefore sensory delights are only useful as [*Authors/Shashank Rajesh/Skillful Thirst*]{.spurious-link target="Authors/Shashank Rajesh/Skillful Thirst"}.
 
 <!-- AI -->
 <a id="hierarchy-of-being"></a>

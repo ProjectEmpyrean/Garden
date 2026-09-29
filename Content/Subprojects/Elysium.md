@@ -36,43 +36,43 @@
 
 ## `Content/Authors/Shashank Rajesh/Endless Abhassara.md`
 
-> # A theoretical existence characterized by the endless cultivation of the second jhana.
+> A theoretical existence characterized by the endless cultivation of the second jhana.
 > 
-> # One is continually reborn in the Abhassara Brahma realm and abides there maintaining that state.
+> One is continually reborn in the Abhassara Brahma realm and abides there maintaining that state.
 
 ## `Content/Authors/Shashank Rajesh/Productive Heaven.md`
 
-> # A theoretical existence characterized by superior happiness in and apart from the reliable and certain production of future happiness.
+> A theoretical existence characterized by superior happiness in and apart from the reliable and certain production of future happiness.
 > 
-> # Basically the ultimate form of \"work hard play hard\", with the work being just as enjoyable as the play.
+> Basically the ultimate form of \"work hard play hard\", with the work being just as enjoyable as the play.
 > 
-> # Is naturally attractive to the mind, catering to both the desire for productivity and entertainment.
+> Is naturally attractive to the mind, catering to both the desire for productivity and entertainment.
 > 
-> ## This natural affinity is the primary reason one might develop it in place of technically superior alternatives, such as the [*Authors/Shashank Rajesh/Endless Abhassara*]{.spurious-link target="Authors/Shashank Rajesh/Endless Abhassara"}.
+> This natural affinity is the primary reason one might develop it in place of technically superior alternatives, such as the [*Authors/Shashank Rajesh/Endless Abhassara*]{.spurious-link target="Authors/Shashank Rajesh/Endless Abhassara"}.
 > 
-> # Thus, it takes the form of a hyper-idealized human state, being refined as far as possible without losing touch with what is naturally appealing to the human mind.
+> Thus, it takes the form of a hyper-idealized human state, being refined as far as possible without losing touch with what is naturally appealing to the human mind.
 > 
 > # Body {#body heading="2"}
 > 
-> ## Starting with the ordinary human form.
+> Starting with the ordinary human form.
 > 
-> ## Remove:
+> Remove:
 > 
-> ### Feces
+> - Feces
 > 
-> ### Urine
+> - Urine
 > 
-> ### Phlegm
+> - Phlegm
 > 
-> ### Bile
+> - Bile
 > 
-> ### Plaque
+> - Plaque
 > 
-> ### Mucous
+> - Mucous
 > 
-> ### Sweat
+> - Sweat
 > 
-> ### Body odor
+> - Body odor
 > 
 > **\***
 

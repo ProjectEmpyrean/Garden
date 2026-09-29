@@ -17,15 +17,15 @@
 
 > ## Skills Can be Arranged {#skills-can-be-arranged heading="2"}
 > 
-> ### Humans typically acquire skills through training.
+> Humans typically acquire skills through training.
 > 
-> ### Some humans are born with talents.
+> Some humans are born with talents.
 > 
-> ### In any case, these skills are simply emergent of certain causes and conditions.
+> In any case, these skills are simply emergent of certain causes and conditions.
 > 
-> ### Innate abilities shared by all humans can be inferred to be born primarily of the body.
+> Innate abilities shared by all humans can be inferred to be born primarily of the body.
 > 
-> ### So, whatever skills one might wish for in a future body, they can probably arrange for them without having to train.
+> So, whatever skills one might wish for in a future body, they can probably arrange for them without having to train.
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 

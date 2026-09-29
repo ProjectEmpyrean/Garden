@@ -4,7 +4,9 @@
 > 
 > This prospection would occur at any moment, and the bar for suffering may differ across them.
 > 
-> ### [TODO]{.todo .TODO} Is the actual threshold for suffering invariant? {#is-the-actual-threshold-for-suffering-invariant}
+> <a id="is-the-actual-threshold-for-suffering-invariant"></a>
+>
+> - [ ] Is the actual threshold for suffering invariant?
 
 ## `Content/Project Empyrean Draft.md`
 
@@ -39,7 +41,9 @@
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
-> ## [TODO]{.todo .TODO} Research the mechanics of desire {#research-the-mechanics-of-desire}
+> <a id="research-the-mechanics-of-desire"></a>
+>
+> - [ ] Research the mechanics of desire
 > 
 > If:
 > 
@@ -54,23 +58,27 @@
 
 ## `Content/Authors/Shashank Rajesh/Hell is Real.md`
 
-> # Literally or figuratively, hell is real.
+> Literally or figuratively, hell is real.
 > 
-> # [TODO]{.todo .TODO} Compile a long list of all the horrific things human beings are forced to endure on this very planet {#compile-a-long-list-of-all-the-horrific-things-human-beings-are-forced-to-endure-on-this-very-planet}
+> <a id="compile-a-long-list-of-all-the-horrific-things-human-beings-are-forced-to-endure-on-this-very-planet"></a>
+>
+> - [ ] Compile a long list of all the horrific things human beings are forced to endure on this very planet
 > 
-> ## Lots and lots of unbelievably horrific content is available online, even just on YouTube.
+> Lots and lots of unbelievably horrific content is available online, even just on YouTube.
 > 
-> ## This content can serve as a very potent reminder not to be heedless
+> This content can serve as a very potent reminder not to be heedless
 > 
-> ### If it can get that bad even just here, imagine what the actual hell realms are like?
+> If it can get that bad even just here, imagine what the actual hell realms are like?
 > 
-> ### Some very poignant similes are given in the suttas
+> Some very poignant similes are given in the suttas
 > 
-> ### [TODO]{.todo .TODO} Collect Buddha analogies about the relative rarity of fortunate existence {#collect-buddha-analogies-about-the-relative-rarity-of-fortunate-existence}
+> <a id="collect-buddha-analogies-about-the-relative-rarity-of-fortunate-existence"></a>
+>
+> - [ ] Collect Buddha analogies about the relative rarity of fortunate existence
 > 
 > 1.  Dirt under a fingernail compared to all the soil on Earth
 > 
-> ## [*Unhappiness*]{.spurious-link target="Unhappiness"}
+> [*Unhappiness*]{.spurious-link target="Unhappiness"}
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
@@ -80,19 +88,25 @@
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
-> # [TODO]{.todo .TODO} Semantic AI Search for Dhamma {#semantic-ai-search-for-dhamma}
+> <a id="semantic-ai-search-for-dhamma"></a>
+>
+> - [ ] Semantic AI Search for Dhamma
 > 
 > Properly tag every sutta so that it can be effectively searched using a hybrid of semantic search with fine grained AI search on results.
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
-> ## [TODO]{.todo .TODO} Indexing of justification {#indexing-of-justification}
+> <a id="indexing-of-justification"></a>
+>
+> - [ ] Indexing of justification
 > 
 > Index, analyze, systematize, and categorize ways of epistemic justification.
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
-> ## [TODO]{.todo .TODO} We want knowledge {#we-want-knowledge}
+> <a id="we-want-knowledge"></a>
+>
+> - [ ] We want knowledge
 > 
 > Epistemic certainty pertaining to the goal.
 > 
@@ -116,7 +130,9 @@
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
-> ## [TODO]{.todo .TODO} Survey all known models {#survey-all-known-models}
+> <a id="survey-all-known-models"></a>
+>
+> - [ ] Survey all known models
 > 
 > Conduct a comprehensive study of all known models of satisfaction.
 
@@ -130,7 +146,9 @@
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
-> ## [TODO]{.todo .TODO} Empirically prove the superior satisfaction of monkhood {#empirically-prove-the-superior-satisfaction-of-monkhood}
+> <a id="empirically-prove-the-superior-satisfaction-of-monkhood"></a>
+>
+> - [ ] Empirically prove the superior satisfaction of monkhood
 
 <!-- AI -->
 **Disclaimer:** The early Buddhist text excerpts in this source block may contain mistakes. They were transposed by AI and have not been independently verified for hallucinations introduced during transfer.
@@ -182,23 +200,37 @@
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
-> ## [TODO]{.todo .TODO} Specify the permutations of the two factors {#specify-the-permutations-of-the-two-factors}
+> <a id="specify-the-permutations-of-the-two-factors"></a>
+>
+> - [ ] Specify the permutations of the two factors
 > 
-> ## [TODO]{.todo .TODO} Categorize them {#categorize-them}
+> <a id="categorize-them"></a>
+>
+> - [ ] Categorize them
 > 
-> ## [TODO]{.todo .TODO} Give familiar examples to each {#give-familiar-examples-to-each}
+> <a id="give-familiar-examples-to-each"></a>
+>
+> - [ ] Give familiar examples to each
 > 
 > with ai visualization
 > 
-> ## [TODO]{.todo .TODO} Break down the factors {#break-down-the-factors}
+> <a id="break-down-the-factors"></a>
+>
+> - [ ] Break down the factors
 > 
-> ## [TODO]{.todo .TODO} Feasibility by analysis of claims, current knowledge, etc. {#feasibility-by-analysis-of-claims-current-knowledge-etc.}
+> <a id="feasibility-by-analysis-of-claims-current-knowledge-etc."></a>
+>
+> - [ ] Feasibility by analysis of claims, current knowledge, etc.
 > 
-> ## [TODO]{.todo .TODO} Research plan {#research-plan}
+> <a id="research-plan"></a>
+>
+> - [ ] Research plan
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
-> ### [TODO]{.todo .TODO} Artistic tributes to the superior {#artistic-tributes-to-the-superior}
+> <a id="artistic-tributes-to-the-superior"></a>
+>
+> - [ ] Artistic tributes to the superior
 > 
 > Create and collect art of various kinds which may grant a glimpse or taste of that which is superior -- devas, the heavens, brahmas, and beyond.
 

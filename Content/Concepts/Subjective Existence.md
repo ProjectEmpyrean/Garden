@@ -1,14 +1,14 @@
 ## `Content/Authors/Shashank Rajesh/The Existence Continuum.md`
 
-> # Existence appears to be continuously renewed through a cascade of reflexive identification
+> Existence appears to be continuously renewed through a cascade of reflexive identification
 > 
-> # Just as an extinguished fire is forever put out, so too would existence upon the end of this process: nibbana.
+> Just as an extinguished fire is forever put out, so too would existence upon the end of this process: nibbana.
 
 ## `Content/Authors/Shashank Rajesh/The Illusion of Persistence.md`
 
-> # All cognizance is momentary, therefore nothing is persistent.
+> All cognizance is momentary, therefore nothing is persistent.
 > 
-> # The illusion of persistence arises based on the perception of continuity.
+> The illusion of persistence arises based on the perception of continuity.
 
 <!-- AI -->
 <a id="personal-uptake"></a>
@@ -76,7 +76,7 @@
 
 ## `Content/Authors/Shashank Rajesh/Drafts/Project Empyrean (3).md`
 
-> # Acquisition is an Impulse
+> Acquisition is an Impulse
 
 ## `Content/Authors/Shashank Rajesh/Drafts/Project Empyrean (3).md`
 

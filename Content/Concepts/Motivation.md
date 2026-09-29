@@ -1,36 +1,36 @@
 ## `Content/Authors/Shashank Rajesh/Skillful Thirst.md`
 
-> # Skillfully exploiting one\'s desires can be effective in accelerating progress.
+> Skillfully exploiting one\'s desires can be effective in accelerating progress.
 > 
-> # Too much and one is overcome with thirst, too little and one loses interest. The goal is to maximize the tension without collapsing.
+> Too much and one is overcome with thirst, too little and one loses interest. The goal is to maximize the tension without collapsing.
 > 
-> # Recall when the Buddha incentivized Ven. Nanda with celestial nymphs, ultimately leading to him to remain a monk and become enlightened.
+> Recall when the Buddha incentivized Ven. Nanda with celestial nymphs, ultimately leading to him to remain a monk and become enlightened.
 > 
-> # Self imposed restrictions for tension are less effective than hard restrictions from circumstantial impossibilities.
+> Self imposed restrictions for tension are less effective than hard restrictions from circumstantial impossibilities.
 > 
-> ## When experiencing abundance, this can be achieved with measured sacrifice to keep oneself sufficiently \"impoverished\" and therefore hungry.
+> When experiencing abundance, this can be achieved with measured sacrifice to keep oneself sufficiently \"impoverished\" and therefore hungry.
 > 
-> ## Karmic balances and long term investments to keep money inaccessible.
+> Karmic balances and long term investments to keep money inaccessible.
 > 
-> # Two kinds of thirst: human and [*heavenly*]{.spurious-link target="Shashank Rajesh/Productive Heaven"}.
+> Two kinds of thirst: human and [*heavenly*]{.spurious-link target="Shashank Rajesh/Productive Heaven"}.
 
 ## `Content/Authors/Shashank Rajesh/Motivators.md`
 
-> # Start by recollecting [*Terms/Suffering*]{.spurious-link target="Terms/Suffering"}, then recollect:
+> Start by recollecting [*Terms/Suffering*]{.spurious-link target="Terms/Suffering"}, then recollect:
 > 
-> ## [*Terms/Freedom*]{.spurious-link target="Terms/Freedom"}
+> - [*Terms/Freedom*]{.spurious-link target="Terms/Freedom"}
 > 
-> ### Monkhood
+>   - Monkhood
 > 
-> ## Arupasukha
+> - Arupasukha
 > 
-> ## Rupasukha
+> - Rupasukha
 > 
-> ## Devasukha
+> - Devasukha
 > 
-> ## [*Authors/Shashank Rajesh/Gihisukha*]{.spurious-link target="Authors/Shashank Rajesh/Gihisukha"}
+> - [*Authors/Shashank Rajesh/Gihisukha*]{.spurious-link target="Authors/Shashank Rajesh/Gihisukha"}
 > 
-> # These are superior existences (or in the case of freedom, transcendence thereof) which can act as motivators of progress.
+> These are superior existences (or in the case of freedom, transcendence thereof) which can act as motivators of progress.
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 

@@ -2,17 +2,17 @@
 
 > ## Non-Emergence
 > That subjective experience is the emergent result of physical interaction is the materialist perspective. However, a vast array of observed and purported supernormal phenomena make this position quite untennable.
-> ### Near Death Experiences
+> - Near Death Experiences
 > 
-> ### Rebirth Accounts (Dr. Ian Stevensen)
+> - Rebirth Accounts (Dr. Ian Stevensen)
 > 
-> ### Dreams, Astral Projection, Remote Viewing, and Disembodiment
+> - Dreams, Astral Projection, Remote Viewing, and Disembodiment
 > 
-> ### Extraterrestrials, UAP/UFOs, and Orbs
+> - Extraterrestrials, UAP/UFOs, and Orbs
 > 
-> ### Ghosts
+> - Ghosts
 > 
-> ### Gods, Angels, and Demons
+> - Gods, Angels, and Demons
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 

@@ -18,9 +18,9 @@
 
 ## `Content/Authors/Shashank Rajesh/Protocol Driven AI Decision Making.md`
 
-> # The complexity of decision making can be automated by AI deriving upon the constraints set in the protocol.
+> The complexity of decision making can be automated by AI deriving upon the constraints set in the protocol.
 > 
-> # Derivative guidelines can be generated in a way similar to the [great standards](https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts40_1).
+> Derivative guidelines can be generated in a way similar to the [great standards](https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts40_1).
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
@@ -44,7 +44,7 @@
 
 > ## Marker Relevancy System {#marker-relevancy-system heading="2" collapsed="true"}
 > 
-> ### A ranking system like Reddit for surfacing markers that are the most useful, certain, and relevant.
+> A ranking system like Reddit for surfacing markers that are the most useful, certain, and relevant.
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 

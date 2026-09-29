@@ -30,11 +30,11 @@ See also the [four consolations](../Wiki/Buddhism/Four%20Consolations.md).
 > ```{=org}
 > #+tags: marker
 > ```
-> # A human enjoys a stable existence due to the longevity of their physical basis.
+> A human enjoys a stable existence due to the longevity of their physical basis.
 > 
-> # It is however bound to decay and die, and thus, seeking a superior vessel, one should develop their mind in the appropriate direciton.
+> It is however bound to decay and die, and thus, seeking a superior vessel, one should develop their mind in the appropriate direciton.
 > 
-> # If the habitual formations of the mind have any significant influence on the arising of a new body after death (see the sutta \"Rebirth by Choice\"), then it is wise to develop and stabilize a mental model of that body and realm as vividly as possible.
+> If the habitual formations of the mind have any significant influence on the arising of a new body after death (see the sutta \"Rebirth by Choice\"), then it is wise to develop and stabilize a mental model of that body and realm as vividly as possible.
 
 ## `Content/Authors/Shashank Rajesh/Thoughts copy.md`
 
